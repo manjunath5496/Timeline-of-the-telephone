@@ -1,7 +1,7 @@
 <ul>
 <li><a href="#course1">Problems in Philosophy</a></li>
 <li><a href="#course2">Classics of Western Philosophy</a></li>
-<li><a href="#course3">Disease and Society in America</a></li>
+<li><a href="#course3">Moral Problems and the Good Life</a></li>
 <li><a href="#course4">Evolution and Society</a></li>
 <li><a href="#course5">American Science: Ethical Conflicts and Political Choices</a></li>
 <li><a href="#course6">Science Communication: A Practical Guide</a></li>
@@ -321,3 +321,118 @@
 </br>
 <p><a href="MIT24_01S16_Paper2_Idea.pdf">Idea Copy Machine (PDF)</a></p>
 </br>
+<h2 id="course3">Moral Problems and the Good Life</h2>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>I. Value and the good life</strong></td>
+</tr>
+<tr class="row">
+<td>Hedonism (<a href="lec_02.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Desire satisfaction and the good (<a href="lec_03.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Objective goods (<a href="lec_04.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Immortality (<a href="lec_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Three moral theories (<a href="lec_06.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Film: "<a href="http://www.films.com/ecTitleDetail.aspx?TitleID=96356">The Global Banquet: Politics of Food</a>"</td>
+</tr>
+<tr class="row">
+<td>Film: "<a href="http://www.irisfilms.org/films/skin-deep/">Skin Deep</a>"</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>II. The moral community</strong></td>
+</tr>
+<tr class="row">
+<td>Animal rights (<a href="lec_09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Consuming animals (<a href="lec_10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The value of nature (<a href="lec_11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Environmentalism (<a href="lec_12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>III. Obligations to others</strong></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2">
+<h3 class="subsubhead">A. Global justice</h3>
+</td>
+</tr>
+<tr class="row">
+<td>The distant needy (<a href="lec_13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Famine relief (<a href="lec_14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Addressing structural injustice (<a href="lec_15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2">
+<h3 class="subsubhead">B. Racism, sexism and speech</h3>
+</td>
+</tr>
+<tr class="row">
+<td>Racism: attitudes and structures (<a href="lec_16.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Affirmative action</p>
+<p>Guest lecture: Adam Hosein, MIT Linguistics and Philosophy</p>
+</td>
+</tr>
+<tr class="row">
+<td>Racist speech (<a href="lec_18.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Hate speech (<a href="lec_19.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Free speech and pornography (<a href="lec_20.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Pornography and equality (<a href="lec_21.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2">
+<h3 class="subsubhead">C. Sexual morality and marriage</h3>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Film: "<a href="http://www.1049films.com/">Tying the Knot</a>"</td>
+</tr>
+<tr class="row">
+<td>Sexual morality (<a href="lec_23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Homosexuality</td>
+</tr>
+<tr class="row">
+<td>Gay and lesbian marriage (<a href="lec_25.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
