@@ -12,7 +12,7 @@
 <li><a href="#course11">Ethics in Your Life: Being, Thinking, Doing (or Not?)</a></li>
 <li><a href="#course12">Ancient Philosophy</a></li>
 <li><a href="#course13">Topics in the History of Philosophy: Justice and Political Economy</a></li>
- <li><a href="#course14">Godzilla and the Bullet Train: Technology and Culture in Modern Japan</a></li>
+ <li><a href="#course14">Topics in the History of Philosophy: Kant</a></li>
 <li><a href="#course15">Engineering Apollo: The Moon Project as a Complex System</a></li> 
  <li><a href="#course16">Cultural History of Technology</a></li>  
    <li><a href="#course17">Social and Political Implications of Technology</a></li> 
@@ -1288,14 +1288,72 @@
 </table>
 </br>
 <h2 id="course13">Topics in the History of Philosophy: Justice and Political Economy</h2>
-
 <p><a href="MIT24_201S16_Guidelines.pdf">Guidelines for Papers (PDF)</a></p>
 <p><a href="MIT24_201S16_Responses.pdf">Guidelines for Weekly Responses (PDF)</a></p>
-<p>&nbsp;</p>
 <p><a href="MIT24_201S16_EventResponse.pdf">Guidelines for Event Response Paper (PDF)</a></p>
-<p>&nbsp;</p>
 <p><a href="MIT24_201S16_First_Paper.pdf">First Paper Prompts (PDF)</a></p>
 <p><a href="MIT24_201S16_Second_Paper.pdf">Second Paper Prompts (PDF)</a></p>
 <p><a href="MIT24_201S16_Paper1.pdf">"Thomas Hobbes: Does Might Make Right?" (PDF)</a>.</p>
 <p><a href="MIT24_201S16_Paper2.pdf">"Adam Smith: The Origin of the Division of Labor" (PDF)</a>.</p>
+</br>
+<h2 id="course14">Topics in the History of Philosophy: Kant</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction to the Course (<a href="1_introduction.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to the Critique (cont.) (<a href="2_kants_intro.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Space (Transcendental Aesthetic) (<a href="3_space.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Space (Transcendental Aesthetic) (cont.) (<a href="4_space.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Transcendental Deduction of the Categories (<a href="5_trans_deduct.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td>Substance and the First Analogy (<a href="7_substance.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Causality and the Second Analogy (cont.) (<a href="9_causality1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Causality (cont.) and Community (The Third Analogy) (<a href="10_causality2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Phenomena and Noumena (<a href="12_phenomena.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Kant's "'Refutations" of Idealism (<a href="14_refutations.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The "Problem of Affection," and Three Kantian Theses (<a href="16_affection.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The Development of Kantian Humility (<a href="18_humility.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Substance Revisited (<a href="20_substance.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Primary and Secondary Qualities in Kant (<a href="21_qualities.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Idealism and Realism Revisited (<a href="25_idealism.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<ul>
+<li class="maintabletemplate">&nbsp;Short Exercise Sample Answer (<a href="short_exer_answr.pdf">PDF</a>)&nbsp;</li>
+</ul>
 </br>
