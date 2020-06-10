@@ -39,7 +39,7 @@
    <li><a href="#course38">Topics in Linguistic Theory: Laboratory Phonology</a></li> 
    <li><a href="#course39">Topics in Linguistics Theory</a></li> 
   <li><a href="#course40">Black Matters: Introduction to Black Studies</a></li> 
-   <li><a href="#course38">Topics in Linguistic Theory: Laboratory Phonology</a></li> 
+   <li><a href="#course41">Language Variation and Change</a></li> 
  
  
  
@@ -3179,5 +3179,57 @@
 
 </br>
 
+<h2 id="course41">Language Variation and Change</h2>
 
-
+<table class="tablewidth75">
+<thead>
+<tr>
+<th>LECTURES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="1/MIT24_914s19_lec1.pdf">Lecture 1: Introduction (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT24_914s19_lec2.pdf">Lecture 2: Geographical Variation - Transcription (PDF - 1.7 MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT24_914s19_lec3.pdf">Lecture 3: Overview of Accent Variation in the USA (PDF - 2.4 MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT24_914s19_lec4.pdf">Lecture 4: Speech Acoustics (PDF - 4.4 MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT24_914s19_lec5.pdf">Lecture 5: What Are the Units of Sound Change? (PDF - 1.8 MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT24_914s19_lec6.pdf">Lecture 6: Regular Sound Change vs. Lexical Diffusion (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT24_914s19_lec7.pdf">Lecture 7: Age-Related Variation (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT24_914s19_lec8.pdf">Lecture 8: Social Variation (PDF - 1.1 MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT24_914s19_lec9.pdf">Lecture 9: Variation within the Individual and Modeling Sound Change (PDF - 1.6 MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT24_914s19_lec10.pdf">Lecture 10: The Role of the Listener in Sound Change (PDF - 1.7 MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT24_914s19_lec11.pdf">Lecture 11: An Exemplar-Based Model of Sound Change (PDF - 1.3 MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT24_914s19_lec12.pdf">Lecture 12: Phonetic Grammar and Gradual Change (PDF - 1.0 MB)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT24_914s19_lec13.pdf">Lecture 13: Syntactic Change (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT24_914s19_lec14.pdf">Lecture 14: Syntactic Change II (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
