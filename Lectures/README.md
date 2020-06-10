@@ -4,7 +4,7 @@
 <li><a href="#course3">Moral Problems and the Good Life</a></li>
 <li><a href="#course4">Good Food: Ethics and Politics of Food</a></li>
 <li><a href="#course5">Relativism, Reason, and Reality</a></li>
-<li><a href="#course6">Science Communication: A Practical Guide</a></li>
+<li><a href="#course6">Justice</a></li>
 <li><a href="#course7">The History of Computing</a></li>
 <li><a href="#course8">Technology and Nature in American History</a></li>
 <li><a href="#course9">Drugs, Politics, and Culture</a></li>
@@ -682,4 +682,105 @@
 </tbody>
 </table>
 </br>
+<h2 id="course6">Justice</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>I. UTILITARIANISM</strong></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_04JS12_lec02.pdf">Classical Utilitarianism (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_04JS12_lec03.pdf">Communal Norms (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_04JS12_lec04.pdf">Revisionist Utilitarianism (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_04JS12_lec05.pdf">The Harm Principle (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_04JS12_lec06.pdf">The Utility of Speech (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_04JS12_lec07.pdf">The Utility of Liberty (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_04JS12_lec08.pdf">The Utility of Democracy (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><strong>II. LIBERTARIANISM</strong></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_04JS12_lec09.pdf">Rights as Side-constraints (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_04JS12_lec10.pdf">Against Redistribution (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_04JS12_lec11.pdf">The Entitlement Theory (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Justice in Acquisition</td>
+</tr>
+<tr class="row">
+<td>Justice in Transfer</td>
+</tr>
+<tr class="alt-row">
+<td>Is the equality of opportunity principle incoherent?</td>
+</tr>
+<tr class="row">
+<td><strong>III. EGALITARIAN LIBERALISM</strong></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_04JS12_lec15.pdf">Justice as Fairness (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_04JS12_lec16.pdf">Markets &amp; Moral Desert (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Equal Opportunity &amp; Effort</td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_04JS12_lec18.pdf">Justice &amp; the Family (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_04JS12_lec19.pdf">Justice &amp; the Social Ethos (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Money &amp; Elections</td>
+</tr>
+<tr class="alt-row">
+<td>Justice &amp; Basic Income</td>
+</tr>
+<tr class="row">
+<td>Justice &amp; Reciprocity</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_04JS12_lec23.pdf">Justice &amp; the Ghetto Poor (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Justice &amp; the Global Poor</td>
+</tr>
+<tr class="alt-row">
+<td>Justice &amp; Immigration</td>
+</tr>
+<tr class="row">
+<td>Conclusion</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
 
