@@ -30,7 +30,7 @@
   <li><a href="#course29">Topics in Philosophy of Mind: Self-Knowledge</a></li> 
    <li><a href="#course30">Political Philosophy: Global Justice</a></li>
 <li><a href="#course31">Topics in Epistemology: Self-Knowledge</a></li> 
- <li><a href="#course27">Introduction to Philosophy of Language</a></li>  
+ <li><a href="#course32">Introduction to Linguistics</a></li>  
    <li><a href="#course28">Topics in Philosophy of Mind: Perceptual Experience</a></li> 
   <li><a href="#course29">Topics in Philosophy of Mind: Self-Knowledge</a></li> 
 </ul>
@@ -2434,4 +2434,180 @@
 </tbody>
 </table>
 </br>
+<h2 id="course32">Introduction to Linguistics</h2>
 
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">SUMMARIES / SLIDES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Introduction</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>What's it all about?</p>
+<p>Branches of linguistics</p>
+<p>Language acquisition: what's innate, what's learned?</p>
+</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Morphology<br /></strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>The notion "lexicon"</p>
+<p>No word or morpheme boundaries in the speech signal</p>
+<p>Affixes: prefixes, suffixes</p>
+<p>The rule "Merge"</p>
+<p>How structure interacts with sound and with meaning</p>
+<p>Syntactic category</p>
+<p>Affixes: reduplication, infixes</p>
+<p>Solving morphology problems</p>
+<p>Subcategorization</p>
+<p>Derivational vs. inflectional morphology</p>
+</td>
+<td><a href="1/MIT24_900F12_Morphology.pdf">Morphology lectures summary (PDF)</a></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Phonetics (Sounds of Speech: Production and Perception)</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>International Phonetic Alphabet (IPA)</p>
+<p>Articulatory phonetics / distinctive features</p>
+<p>Consonants: place, manner, aspiration, nasality</p>
+<p>Vowels</p>
+<p>Acoustic phonetics, categorical perception</p>
+<p>The McGurk effect</p>
+<p>Finish phonetics, start phonology</p>
+</td>
+<td><a href="1/MIT24_900F12_Acostc_sumary.pdf">Phonetics lectures summary (PDF)</a></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Phonology (Sounds of Speech: Their Grammar)</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Phonology vs. phonetics</p>
+<p>Phonological rules</p>
+<p>Underlying form</p>
+<p>Complementary distribution</p>
+<p>Phoneme and allophone</p>
+<p>How to determine the phonemes of a language</p>
+<p>Rule ordering</p>
+<p>Syllable structure</p>
+</td>
+<td><a href="1/MIT24_900F12_Phonologysum.pdf">Phonology lectures summary (PDF)</a></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Writing Systems</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Writing systems as a technology for representing speech</p>
+<p>Types of systems: pictographic, syllabary, alphabet</p>
+<p>Origins of the Roman alphabet</p>
+<p>Phonemic vs. phonetic alphabetic writing systems</p>
+</td>
+<td><a href="1/MIT24_900F12_Writing_Sys.pdf">Writing systems lecture slides (PDF - 2.0MB)</a></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Syntax (Sentence Structure)</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Syntactic categories (noun, verb, etc.)</p>
+<p>Phrase structure</p>
+<p>Subcategorization in syntax</p>
+<p>Chomsky's Locality Condition on subcategorization</p>
+<p>The notion "head"</p>
+<p>Complements and adjuncts</p>
+<p>Head-initial vs. head-final languages</p>
+<p>Movement</p>
+<p>Movement as "internal merge"</p>
+<p>wh-movement</p>
+<p>Topicalization</p>
+<p>V-to-C movement</p>
+<p>Patterns of pronunciation (overt, covert, split)</p>
+<p>Verb-second</p>
+<p>The notion "parameter"</p>
+<p>Movement and word-order variation</p>
+<p>A language universal: the Final-over-Final Constraint (FOFC)</p>
+</td>
+<td><a href="1/MIT24_900F12_Syntaxsummary.pdf">Syntax lectures summary (PDF)</a>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Acquisition of Syntax</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Stages of acquisition</p>
+<p>Learning vs. innateness vs. maturation</p>
+</td>
+<td><a href="1/MIT24_900F12_LanguagAcqsum.pdf">Acquisition of syntax lecture summary (PDF)</a></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Semantics (Grammar of Meaning) / Semantics and Pragmatics<br /></strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Pronouns and binding</p>
+<p>Quantifier scope</p>
+<p>Negative polarity items</p>
+</td>
+<td>
+<p><a href="1/MIT24_900F12_Semantics.pdf">Semantics lecture slides (PDF - 1.0MB)</a></p>
+<p>Note: these slides were produced by Hadas Kotek and are used by permission</p>
+</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Controversies, Myths and Crazy Rumors about Language</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><em>Selected from such issues as...</em></p>
+<p>Does the language of the Pirah&atilde; disprove theories about language?</p>
+<p>Why did Stalin write articles about linguistics?</p>
+<p>What does teaching children to read have to do with right-wing vs. left-wing politics?</p>
+<p>How many words for snow does Eskimo have? Should we care?</p>
+</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Historical Change</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Synchronic vs. diachronic linguistics</p>
+<p>Internalist vs. externalist views of change</p>
+<p>Pidgins, Creoles, Creolization</p>
+<p>Language families</p>
+<p>The Indo-European language family: language and culture</p>
+<p>Linguistics and the Romantic movement</p>
+<p>History of English</p>
+</td>
+<td>
+<p><a href="1/MIT24_900F12_HisLingsumary.pdf">Historical change lectures summary (PDF)</a></p>
+<p><a href="1/MIT24_900F12_HistoriclChan.pdf">Historical change lectures slides (PDF - 1.1MB)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Dialects: Facts and Controversies</strong></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>What is a dialect?</p>
+<p>The politics of languages and dialects</p>
+<p>Dialects of North American English</p>
+<p>The "Ebonics" controversy</p>
+</td>
+<td><a href="1/MIT24_900F12_Dialects.pdf">Dialects lectures slides (PDF - 1.6MB)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
