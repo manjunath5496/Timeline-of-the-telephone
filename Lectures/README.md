@@ -27,7 +27,7 @@
   <li><a href="#course25">Logic II</a></li>
 <li><a href="#course26">Modal Logic</a></li> 
  <li><a href="#course27">Introduction to Philosophy of Language</a></li>  
-   <li><a href="#course23">Feminist Thought</a></li> 
+   <li><a href="#course28">Topics in Philosophy of Mind: Perceptual Experience</a></li> 
   <li><a href="#course24">Logic I</a></li> 
  
 </ul>
@@ -2295,5 +2295,60 @@
 </tbody>
 </table>
 </br>
-
+<h2 id="course28">Topics in Philosophy of Mind: Perceptual Experience</h2>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>Introduction (<a href="1_intro.pdf">PDF</a>)</p>
+<p>Martin: Transparency</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Martin: Transparency (cont.) (<a href="2_martin.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Campbell: Reference and consciousness (<a href="3_martin.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Visitor: John Campbell</p>
+<p>Johnston: Sensory awareness</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Johnston: Sensory awareness (cont.)</p>
+<p>Siegel: Contents of visual experience</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Crane: Perceptual relations&nbsp;<span class="nobr">(<a href="6_crane.pdf">PDF - 2.2 MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Campbell, Frith, and Johnstone: Thought insertion and schizophrenia&nbsp;<span class="nobr">(<a href="7_thoughts.pdf">PDF - 1.8 MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Thought insertion (cont.)&nbsp;<span class="nobr">(<a href="8_eden.pdf">PDF - 1.2 MB</a>)</span></p>
+<p>Chalmers: Perception and fall from Eden</p>
+</td>
+</tr>
+<tr class="row">
+<td>Visitor: David Chalmers</td>
+</tr>
+<tr class="alt-row">
+<td>Block: Consciousness (<a href="10_consciousness.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Schwitzgebel: Introspection (<a href="11_schwitzgebel.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
