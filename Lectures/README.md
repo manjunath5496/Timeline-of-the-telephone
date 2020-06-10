@@ -2,7 +2,7 @@
 <li><a href="#course1">Problems in Philosophy</a></li>
 <li><a href="#course2">Classics of Western Philosophy</a></li>
 <li><a href="#course3">Moral Problems and the Good Life</a></li>
-<li><a href="#course4">Evolution and Society</a></li>
+<li><a href="#course4">Good Food: Ethics and Politics of Food</a></li>
 <li><a href="#course5">American Science: Ethical Conflicts and Political Choices</a></li>
 <li><a href="#course6">Science Communication: A Practical Guide</a></li>
 <li><a href="#course7">The History of Computing</a></li>
@@ -435,4 +435,118 @@
 </table>
 </br>
 
+<h2 id="course4">Good Food: Ethics and Politics of Food</h2>
+
+<table class="tablewidth100">
+<thead>
+<tr>
+<th>SESSION</th>
+<th>LECTURE NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>1: Introduction</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>2: Moral Theory</td>
+<td><a href="MIT24_03S17_lec03.pdf">Three Moral Theories (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>3: Global Hunger (Consequentialist Ethics Approach)</td>
+<td><a href="MIT24_03S17_lec04.pdf">Consequentialism and Famine (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>4: Global Hunger (Harm Principle)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>5: Global Hunger (Political Approaches)</td>
+<td><a href="MIT24_03S17_lec05.pdf">Deontology and Famine (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>6: Famine Relief: Ethics or Politics</td>
+<td><a href="MIT24_03S17_lec06.pdf">Politics and Famine (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>7: Justice and Oppression</td>
+<td><a href="MIT24_03S17_lec07.pdf">Oppression (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>8: Food Sovereignty</td>
+<td><a href="MIT24_03S17_lec08.pdf">Food Security and Food Sovereignty (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>9: Food and Identity</td>
+<td><a href="MIT24_03S17_lec09.pdf">Food and Social Meaning (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>10: Gender, Race, Religion, and ...</td>
+<td><a href="MIT24_03S17_lec10.pdf">Religion, Virtue and Food Production (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>11: Justice in Food Production</td>
+<td><a href="MIT24_03S17_lec11.pdf">Justice and Food Production (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>12: Capitalism and Liberty</td>
+<td><a href="MIT24_03S17_lec12.pdf">Capitalism and Liberty (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>13: Capitalism and the Food System, part 1</td>
+<td><a href="MIT24_03S17_lec13.pdf">Capitalism and the Food System, part 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>14: Film Screening</td>
+<td>Watch&nbsp;<a href="http://www.imdb.com/title/tt1149583/">Flow: For the Love of Water</a></td>
+</tr>
+<tr class="row">
+<td>15: Capitalism and the Food System, part 2</td>
+<td><a href="MIT24_03S17_lec14.pdf">Capitalism and the Food System, part 2 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>16: Speciesism</td>
+<td><a href="MIT24_03S17_lec15.pdf">Animal Liberation and Moral Community (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>17: Respect for Animals</td>
+<td><a href="MIT24_03S17_lec16.pdf">Animal Welfare and Industrial Animal Agriculture (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>18: Harming and Killing</td>
+<td><a href="MIT24_03S17_lec17.pdf">Is it Bad to Kill Animals? (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>19: Vegetarianism and Veganism</td>
+<td><a href="MIT24_03S17_lec18.pdf">Consumer Ethics (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>20: Waste and Freeganism (Gleaning)</td>
+<td><a href="MIT24_03S17_lec19.pdf">Waste (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>21: Food, for Free</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>22: Industrial Plant Agriculture</td>
+<td><a href="MIT24_03S17_lec20.pdf">Industrial Plant Agriculture: Weighing Values? (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>23: Environmentalism</td>
+<td><a href="MIT24_03S17_lec22.pdf">Environmentalism (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>24: Locavorism</td>
+<td><a href="MIT24_03S17_lec23.pdf">Locavorism (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>25: GMOs</td>
+<td><a href="MIT24_03S17_lec24.pdf">Genetically Modified Organisms (GMOs): Good, Bad, or ??? (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+
+</br>
 
