@@ -2971,6 +2971,6 @@
 </table>
 </br>
 <ul>
-<li id="center">&nbsp;Download a copy of the final exam study guide (<a href="exam_guide.pdf">PDF</a>).</li>
+<li id="center">&nbsp;Download a copy of the final exam study guide (<a href="1/exam_guide.pdf">PDF</a>).</li>
 </ul>
 </br>
