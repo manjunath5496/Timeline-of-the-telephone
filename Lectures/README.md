@@ -34,7 +34,7 @@
    <li><a href="#course33">Language and Its Structure I: Phonology</a></li> 
   <li><a href="#course34">Language and its Structure II: Syntax</a></li> 
   <li><a href="#course35">Lab in Psycholinguistics</a></li>  
-   <li><a href="#course33">Language and Its Structure I: Phonology</a></li> 
+   <li><a href="#course36">Creole Languages and Caribbean Identities</a></li> 
   <li><a href="#course34">Language and its Structure II: Syntax</a></li> 
  
  
@@ -3001,6 +3001,9 @@
 <p><a href="1/MIT9_59jS17_lec16.pdf">Lecture 16: Culture and Language: Recursion (PDF)</a></p>
 
 </br>
-
-
-
+<h2 id="course36">Creole Languages and Caribbean Identities</h2>
+<p><a href="1/MIT24_908s17_UnthinkableRevolutions.pdf">An "Unthinkable" Revolution (PDF - 2.2MB)</a></p>
+<p><a href="1/MIT24_908s17_RaceLanguage.pdf">Race (and class and place) and Language Evolution in America (PDF)</a></p>
+<p><a href="1/MIT24_908s17_Colonialism.pdf">Colonialism and Neocolonialism (PDF)</a></p>
+<p><a href="1/MIT24_908s17_Discourses.pdf">Discourses of Power (PDF)</a></p>
+</br>
