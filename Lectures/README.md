@@ -1761,7 +1761,7 @@
 <tr class="row">
 <td>
 <p>Introductory Class</p>
-<p>&nbsp;</p>
+
 </td>
 </tr>
 <tr class="alt-row">
@@ -1773,7 +1773,7 @@
 <tr class="alt-row">
 <td>
 <p>Film: Diagnosing Difference</p>
-<p>&nbsp;</p>
+
 </td>
 </tr>
 <tr class="row">
@@ -1788,7 +1788,7 @@
 <tr class="alt-row">
 <td>
 <p>Student Discussion</p>
-<p>&nbsp;</p>
+
 </td>
 </tr>
 <tr class="row">
@@ -1800,7 +1800,7 @@
 <tr class="row">
 <td>
 <p>Domestic Violence</p>
-<p>&nbsp;</p>
+
 </td>
 </tr>
 <tr class="alt-row">
@@ -1812,7 +1812,7 @@
 <tr class="alt-row">
 <td>
 <p>Midterm Reflection</p>
-<p>&nbsp;</p>
+
 </td>
 </tr>
 <tr class="row">
@@ -1839,13 +1839,13 @@
 <tr class="alt-row">
 <td>
 <p>Queer Theory</p>
-<p>&nbsp;</p>
+
 </td>
 </tr>
 <tr class="row">
 <td>
 <p>Film: Forbidden Voices: How to Start a Revolution with a Laptop</p>
-<p>&nbsp;</p>
+
 </td>
 </tr>
 <tr class="alt-row">
@@ -1854,7 +1854,7 @@
 <tr class="row">
 <td>
 <p>Masculinities</p>
-<p>&nbsp;</p>
+
 </td>
 </tr>
 <tr class="alt-row">
@@ -1863,7 +1863,7 @@
 <tr class="row">
 <td>
 <p>Final Presentations</p>
-<p>&nbsp;</p>
+
 </td>
 </tr>
 </tbody>
