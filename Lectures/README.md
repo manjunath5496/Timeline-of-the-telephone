@@ -15,8 +15,8 @@
  <li><a href="#course14">Topics in the History of Philosophy: Kant</a></li>
 <li><a href="#course15">Philosophy In Film and Other Media</a></li> 
  <li><a href="#course16">Theory of Knowledge</a></li>  
-   <li><a href="#course17">Social and Political Implications of Technology</a></li> 
-  <li><a href="#course18">Technology and the Literary Imagination</a></li> 
+   <li><a href="#course17">Philosophy of Film</a></li> 
+  <li><a href="#course18">Metaphysics</a></li> 
 
  
  
@@ -1378,4 +1378,25 @@
 <li><a href="MIT24_211S11_ContextualSol.pdf">"The Contexualist Solution to the Lottery Paradox" (PDF)</a></li>
 </ul>
 </br>
+<h2 id="course17">Philosophy of Film</h2>
+<ul>
+<li>Citizen Kane Paper  (<a href="citizen_kane_ppr.pdf">PDF</a>)</li>
+<li>Renoir and Coppola Paper  (<a href="renoir_cop_ppr.pdf">PDF</a>)</li>
+</ul>
+</br>
+<h2 id="course18">Metaphysics</h2>
 
+<h2 class="subhead">Problem Sets</h2>
+<p><a href="MIT24_221S15_ProblemSet1.pdf">Problem Set 1 (PDF)</a>&nbsp;- Due session 6</p>
+<p><a href="MIT24_221S15_ProblemSet2.pdf">Problem Set 2 (PDF)</a>&nbsp;- Due session 12</p>
+<p><a href="MIT24_221S15_ProblemSet3.pdf">Problem Set 3 (PDF)</a>&nbsp;- Due session 19</p>
+<h2 class="subhead">Final Paper, Due Last Session (5&ndash;8 Pages)</h2>
+<p><a href="MIT24_221S15_FinalPprTopic.pdf">Final Paper Topics (PDF)</a></p>
+<h3 class="subsubhead">Resources</h3>
+<p><a href="MIT24_221S15_Philosophy.pdf">Writing Philosophy Essays (PDF)</a>&nbsp;- tips from Prof. Justin Khoo.</p>
+<p><a href="http://www.jimpryor.net/teaching/guidelines/writing.html">Jim Pryor's Guide to Writing Philosophy Papers</a>&nbsp;(including grading guidelines)</p>
+<p><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="pinkguide.pdf">The Pink Guide to Taking Philosophy Classes (PDF)</a></p>
+<h3 class="subsubhead">Sample Student Work</h3>
+<p><a href="MIT24_221S15_FinalPaper1.pdf">24.221 Final Paper (PDF)</a>&nbsp;</p>
+<p><a href="MIT24_221S15_BradleyMattix.pdf">The Problem of Identity and Mereological Nihilism (PDF)</a>&nbsp;</p>
+</br>
