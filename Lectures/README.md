@@ -22,7 +22,7 @@
 <li><a href="#course21">Philosophy of Law</a></li> 
  <li><a href="#course22">Topics in Social Theory and Practice: Race and Racism</a></li>  
    <li><a href="#course23">Feminist Thought</a></li> 
-  <li><a href="#course18">Metaphysics</a></li> 
+  <li><a href="#course24">Logic I</a></li> 
 
  
  
@@ -1869,5 +1869,122 @@
 </tbody>
 </table>
 </br>
-
-
+<h2 id="course24">Logic I</h2>
+<table class="tablewidth" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">SLIDES</th>
+<th scope="col">HANDOUTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Truth-functionality; introduction to sentential logic (SL) syntax and semantics; translation</td>
+<td>&nbsp;</td>
+<td>(<a href="MIT24_241F09_handout02.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Truth-tables and logical properties of compound sentences</td>
+<td>&nbsp;</td>
+<td>(<a href="MIT24_241F09_handout04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Introduction to meta-theory; mathematical induction</td>
+<td>(<a href="MIT24_241F09_lec09.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Soundness of SD/SD+</td>
+<td>(<a href="MIT24_241F09_lec10.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Completeness of SD/SD+</td>
+<td>(<a href="MIT24_241F09_lec11.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Open sentences; free vs. bound variables; scope, multiply quantified sentences; definite descriptions; properties of relations</td>
+<td>(<a href="MIT24_241F09_lec13.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Identity; functions, translation to and from predicate logic (PL)</td>
+<td>&nbsp;</td>
+<td>(<a href="MIT24_241F09_handout14.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Formal PL/PLE semantics continued; review</td>
+<td>(<a href="MIT24_241F09_lec18.pdf">PDF</a>)</td>
+<td>(<a href="MIT24_241F09_handout18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Meta-theory: Soundness of PD, PD+, PDE</td>
+<td>(<a href="MIT24_241F09_lec22.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Meta-theory: Completeness of PD</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT24_241F09_lec23.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Meta-theory: Completeness continued; PD+; PDE</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MIT24_241F09_lec24.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">FILES</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>(<a href="MIT24_241F09_hw01.pdf">PDF</a>)</td>
+<td>(<a href="MIT24_241F09_hw01_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>(<a href="MIT24_241F09_hw02.pdf">PDF</a>)</td>
+<td>(<a href="MIT24_241F09_hw02_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>(<a href="MIT24_241F09_hw03.pdf">PDF</a>)</td>
+<td>(<a href="MIT24_241F09_hw03_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>(<a href="MIT24_241F09_hw04.pdf">PDF</a>)</td>
+<td>(<a href="MIT24_241F09_hw04_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>(<a href="MIT24_241F09_hw05.pdf">PDF</a>)</td>
+<td>(<a href="MIT24_241F09_hw05_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>(<a href="MIT24_241F09_hw06.pdf">PDF</a>)</td>
+<td>(<a href="MIT24_241F09_hw06_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>(<a href="MIT24_241F09_hw07.pdf">PDF</a>)</td>
+<td>(<a href="MIT24_241F09_hw07_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>(<a href="MIT24_241F09_hw08.pdf">PDF</a>)</td>
+<td>(<a href="MIT24_241F09_hw08_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>(<a href="MIT24_241F09_hw09.pdf">PDF</a>)</td>
+<td>(<a href="MIT24_241F09_hw09_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>(<a href="MIT24_241F09_hw10.pdf">PDF</a>)</td>
+<td>(<a href="MIT24_241F09_hw10_sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
