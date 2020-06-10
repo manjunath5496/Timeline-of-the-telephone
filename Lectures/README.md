@@ -29,7 +29,7 @@
    <li><a href="#course28">Topics in Philosophy of Mind: Perceptual Experience</a></li> 
   <li><a href="#course29">Topics in Philosophy of Mind: Self-Knowledge</a></li> 
    <li><a href="#course30">Political Philosophy: Global Justice</a></li>
-<li><a href="#course26">Modal Logic</a></li> 
+<li><a href="#course31">Topics in Epistemology: Self-Knowledge</a></li> 
  <li><a href="#course27">Introduction to Philosophy of Language</a></li>  
    <li><a href="#course28">Topics in Philosophy of Mind: Perceptual Experience</a></li> 
   <li><a href="#course29">Topics in Philosophy of Mind: Self-Knowledge</a></li> 
@@ -2376,3 +2376,62 @@
 <li class="maintabletemplate">&nbsp;Rubin, Gavriel. "Liberalism and Democracy: A Response to Rawls'&nbsp;<em>The Law of Peoples</em>." (<a href="rubin_paper.pdf">PDF</a>)</li>
 </ul>
 </br>
+<h2 id="course31">Topics in Epistemology: Self-Knowledge</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction</td>
+<td><a href="MIT24_805F15_01Intro.pdf">Introduction (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>The Wittgensteinian Legacy</td>
+<td>
+<p><a href="MIT24_805F15_02Wright.pdf">Wright and McDowell (PDF)</a></p>
+<p><a href="MIT24_805F15_03Wright.pdf">Wright and McDowell II (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Inner Sense I</td>
+<td><a href="MIT24_805F15_04Arm.pdf">Armstrong (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Inner Sense II, and Shoemaker's Rationalism</td>
+<td>
+<p><a href="MIT24_805F15_05Shoe.pdf">Shoemaker (PDF)</a></p>
+<p><a href="MIT24_805F15_06Shoe.pdf">Shoemaker II (PDF)</a></p>
+<p><a href="MIT24_805F15_07Shoe.pdf">Shoemaker III (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Ryleanism</td>
+<td><a href="MIT24_805F15_08Rylea.pdf">Ryleanism (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Transparency I</td>
+<td><a href="MIT24_805F15_09Cas.pdf">Cassam (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Transparency II</td>
+<td><a href="MIT24_805F15_10Survey.pdf">Survey (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Perception</td>
+<td>
+<p><a href="MIT24_805F15_11Dre.pdf">Dretske (PDF)</a></p>
+<p><a href="MIT24_805F15_12Dre.pdf">Dretske and Byrne (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Intention</td>
+<td><a href="MIT24_805F15_13Int.pdf">Intention (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
