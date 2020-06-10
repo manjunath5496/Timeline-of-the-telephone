@@ -32,7 +32,7 @@
 <li><a href="#course31">Topics in Epistemology: Self-Knowledge</a></li> 
  <li><a href="#course32">Introduction to Linguistics</a></li>  
    <li><a href="#course33">Language and Its Structure I: Phonology</a></li> 
-  <li><a href="#course29">Topics in Philosophy of Mind: Self-Knowledge</a></li> 
+  <li><a href="#course34">Language and its Structure II: Syntax</a></li> 
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Problems in Philosophy</h2>
@@ -2719,4 +2719,258 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course34">Language and its Structure II: Syntax</h2>
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE NOTES</th>
+<th scope="col">HANDOUTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p><em>From Words to Phrases<br />The Big Picture: Three Examples</em></p>
+<p>The Cinque Hierarchy</p>
+<p>Greenberg Universals</p>
+<p>Parameters (<strong>wh</strong>-movement)</p>
+</td>
+<td>(<a href="ln1.pdf">PDF</a>)</td>
+<td>(<a href="class_1_handout.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><em>Constituent Structure and Tests for Constituent Structure</em></p>
+<p>Sentence Fragments, Movement, Ellipsis, Anaphora as Tests for Constituency</p>
+<p>X-bar Theory: Heads</p>
+<p>&theta;-roles</p>
+<p>Complements and Modifiers</p>
+<p>Specifiers</p>
+</td>
+<td>(<a href="ln2_3.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p><em>The Sisterhood Condition on Selection, and Some Consequences</em></p>
+<p>Implications for Acquisition.</p>
+<p>Modification of the Sisterhood Condition gives the Notion "Head"</p>
+<p>CP and IP</p>
+<p>Apparent Deviations from the Sisterhood Condition due to&nbsp;<strong>Movement.</strong>&nbsp;"Scrambling" in Japanese</p>
+</td>
+<td>(<a href="9_15jap_hndout1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><em>The Architecture of the Grammar</em></p>
+<p>The Rule&nbsp;<strong>Move</strong>: Scrambling in Japanese</p>
+<p>What's Universal? The&nbsp;<strong>UTAH</strong>&nbsp;Condition on Thematic Role Assignment</p>
+</td>
+<td>(<a href="ln4Sep_24_summary.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p><em>Head Movement</em></p>
+<p>Apparent Deviations from the Sisterhood Condition in&nbsp;<strong>Verb-second languages</strong>&nbsp;(German, Dutch, Swedish, Vata...)</p>
+<p>Verb Movement to I in French</p>
+<p>VSO Languages (Irish, Welsh...) and the VP-internal Subject Hypothesis</p>
+</td>
+<td>(<a href="ln5_summary.pdf">PDF</a>)</td>
+<td>(<a href="9_24_handout.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The English Verb System</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p><em>Case Theory</em></p>
+<p>Morphological Case Systems</p>
+<p>Case Theory and the Distribution of Complements</p>
+</td>
+<td>(<a href="ln78_oct6_8_sum.pdf">PDF</a>)</td>
+<td>(<a href="morpho_handout.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>DP vs. Non-DP; V&amp;P vs. N&amp;A</p>
+<p>English as a Case Language!</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p><em>A-Movement</em></p>
+<p>Passive Sentences and Raising to Subject</p>
+<p>Passive in the Clause and in NP</p>
+<p>Long-distance Passive vs. Control (PRO)</p>
+<p>Subject Control vs. Object Control</p>
+</td>
+<td>(<a href="ln9Oct_15_sum.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><em>Unaccusativity</em></p>
+<p>The 1-Advancement Exclusiveness Law<br /><strong>Ne</strong>-cliticization in Italian and Other Tests for Unaccusativity</p>
+</td>
+<td>(<a href="mso12D.pdf">PDF</a>)</td>
+<td>(<a href="10_27_handout.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>How Well Can We Predict Unaccusativity from Lexical Semantics?</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Coreference and Constituent Structure</p>
+<p>Principle A, Principle B, Principle C</p>
+<p>Coreference, Binding and Disjoint Reference</p>
+<p>Governing Category</p>
+<p>Long-distance Reflexives in Dutch and Chinese</p>
+</td>
+<td>(<a href="ln12_13.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p><em>Binding vs. Coreference</em></p>
+<p>Binding and Coreference in Language Acquisition and Language Disorders</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Is it Real?</td>
+<td>(<a href="ln14_16_nov.pdf">PDF</a>)</td>
+<td>(<a href="1117_handout_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>A-Bar Movement</p>
+<p><strong>Wh</strong>-movement as Movement to Spec, CP</p>
+<p>I-to-C Movement and&nbsp;<strong>Wh</strong>-movement in Questions and Relative Clauses</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><strong>Wh</strong>-phrases</p>
+<p>Doubly-Filled Comp filter</p>
+<p>Relative Clauses</p>
+<p>The Model of Grammar: "Superiority Effects" and "Tucking In"</p>
+</td>
+<td>&nbsp;</td>
+<td>(<a href="1124_handout_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Island Phenomena; the "Subjacency Condition"</td>
+<td>(<a href="ln17_18.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><em>Incorporation</em></p>
+<p>The Condition on Extraction Domains (CED). Incorporation (Mohawk, Chichewa, Southern Tiwa)</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p><em>Covert Movement and "Logical Form"</em></p>
+<p>WH-movement in Japanese/Chinese-type Languages. Adjuncts vs. Arguments. Covert Movement</p>
+</td>
+<td>(<a href="ln19final_sum.pdf">PDF</a>)</td>
+<td>(<a href="12_1wh_3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><em>Ellipsis and Quantifier Raising</em></p>
+<p>Quantifier Raising, VP-ellipsis, Antecedent-Contained Deletion</p>
+</td>
+<td>&nbsp;</td>
+<td>(<a href="12_8_intrmix.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p><em>The Architecture of the Grammar</em></p>
+<p>The "Minimalist Program"</p>
+</td>
+<td>&nbsp;</td>
+<td>(<a href="12_10cover.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="1/ps_1_9_7a.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="1/ps_2_2003.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<a href="1/ps_3.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4 (<a href="1/ps_4_2003.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Problem Set 5 (PDF)</td>
+<td>(<a href="1/ps_5_sol.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 6 (<a href="1/ps_6_icelandic.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Problem Set 7 (<a href="1/ps_7_cntrol_etc.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 8 (<a href="1/ps_8.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Problem Set 9 (<a href="1/ps_9.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 10 (<a href="1/ps_10.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Problem Set 11 (<a href="1/ps_11.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Optional Final Problems (<a href="1/practiceps_prob.pdf">PDF</a>)</td>
+<td>(<a href="1/practiceps_ans.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<ul>
+<li id="center">&nbsp;Download a copy of the final exam study guide (<a href="exam_guide.pdf">PDF</a>).</li>
+</ul>
 </br>
