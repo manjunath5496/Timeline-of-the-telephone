@@ -1,5 +1,5 @@
 <ul>
-<li><a href="#course1">Technology in American History</a></li>
+<li><a href="#course1">Problems in Philosophy</a></li>
 <li><a href="#course2">The Rise of Modern Science</a></li>
 <li><a href="#course3">Disease and Society in America</a></li>
 <li><a href="#course4">Evolution and Society</a></li>
@@ -22,5 +22,5 @@
  
 </ul>
 <p>&nbsp;</p>
-<h2 id="course1">Technology in American History</h2>
+<h2 id="course1">Problems in Philosophy</h2>
 
