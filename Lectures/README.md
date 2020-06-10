@@ -3,7 +3,7 @@
 <li><a href="#course2">Classics of Western Philosophy</a></li>
 <li><a href="#course3">Moral Problems and the Good Life</a></li>
 <li><a href="#course4">Good Food: Ethics and Politics of Food</a></li>
-<li><a href="#course5">American Science: Ethical Conflicts and Political Choices</a></li>
+<li><a href="#course5">Relativism, Reason, and Reality</a></li>
 <li><a href="#course6">Science Communication: A Practical Guide</a></li>
 <li><a href="#course7">The History of Computing</a></li>
 <li><a href="#course8">Technology and Nature in American History</a></li>
@@ -548,5 +548,138 @@
 </tbody>
 </table>
 
+</br>
+<h2 id="course5">Relativism, Reason, and Reality</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2" headers="col1"><strong>Week 1</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Thinking Like a Philosopher (<a href="l1_think_phlospr.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="col1"><strong>Week 2</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Staying One and the Same Thing Over Time (<a href="l2_staying_same.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Persistence for Persons (<a href="l3_persist_prson.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="col1"><strong>Week 3</strong></td>
+</tr>
+<tr class="row">
+<td headers="col2">Remembering who you are (<a href="l4_remember_you.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Personal Identity as Psychological Continuity (<a href="l5_pi_psych_cont.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="col1"><strong>Week 4</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">The Importance of Being Identical (?) (<a href="l6_impor_identic.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Identity is Not what Matters (<a href="l7_iden_not_matt.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="col1"><strong>Week 5</strong></td>
+</tr>
+<tr class="row">
+<td headers="col2">The Truth will Set You Free (<a href="l8_truth_set_fre.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">First Debate</td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="col1"><strong>Week 6</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Knowing Right from Wrong (<a href="l9_right_wrong.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">What's your Evidence? (<a href="l10_what_evidnce.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="col1"><strong>Week 7</strong></td>
+</tr>
+<tr class="row">
+<td headers="col2">Not a Fact but a Feeling (<a href="l11_no_fact_feel.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">True for you, Maybe (<a href="l12_true_4_u_may.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="col1"><strong>Week 8</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Lessons from Einstein on Ethics (<a href="l13_les_einstein.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">What are we Arguing about? (<a href="l14_what_arguing.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="col1"><strong>Week 9</strong></td>
+</tr>
+<tr class="row">
+<td headers="col2">Insiders, Outsiders (<a href="l15_insid_outsid.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Second Debate</td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="col1"><strong>Week 10</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Galileo, Descartes, Berkeley, Locke, Kant (<a href="l16_galileoetc05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Hume, Popper, Putnam (<a href="l17_hu_pop_put05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="col1"><strong>Week 11</strong></td>
+</tr>
+<tr class="row">
+<td headers="col2">Kuhn as Kant all Over Again (<a href="l18_kuhn.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="col1"><strong>Week 12</strong></td>
+</tr>
+<tr class="row">
+<td headers="col2">Four&nbsp;Kinds of Incommensurability (<a href="l19_4kind_inco05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">No Shared Reasons (<a href="l20_no_shar_reas.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="col1"><strong>Week 13</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">No Shared Meanings</td>
+</tr>
+<tr class="row">
+<td headers="col2">No Shared World</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="col1"><strong>Week 14</strong></td>
+</tr>
+<tr class="row">
+<td headers="col2">The Idea of Progress</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Third Debate</td>
+</tr>
+</tbody>
+</table>
 </br>
 
