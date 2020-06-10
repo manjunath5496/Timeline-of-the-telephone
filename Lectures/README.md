@@ -22,14 +22,17 @@
 <li><a href="#course21">Philosophy of Law</a></li> 
  <li><a href="#course22">Topics in Social Theory and Practice: Race and Racism</a></li>  
    <li><a href="#course23">Feminist Thought</a></li> 
-  <li><a href="#course24">Logic I</a></li> 
-
+  <li><a href="#course24">Logic I</a></li>
   <li><a href="#course25">Logic II</a></li>
 <li><a href="#course26">Modal Logic</a></li> 
  <li><a href="#course27">Introduction to Philosophy of Language</a></li>  
    <li><a href="#course28">Topics in Philosophy of Mind: Perceptual Experience</a></li> 
   <li><a href="#course29">Topics in Philosophy of Mind: Self-Knowledge</a></li> 
- 
+   <li><a href="#course30">Political Philosophy: Global Justice</a></li>
+<li><a href="#course26">Modal Logic</a></li> 
+ <li><a href="#course27">Introduction to Philosophy of Language</a></li>  
+   <li><a href="#course28">Topics in Philosophy of Mind: Perceptual Experience</a></li> 
+  <li><a href="#course29">Topics in Philosophy of Mind: Self-Knowledge</a></li> 
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Problems in Philosophy</h2>
@@ -2366,4 +2369,10 @@
 <p>Session 11 (<a href="24500S05_11.pdf">PDF</a>)</p>
 <p>Session 12 (<a href="24500S05_12.pdf">PDF</a>)</p>
 <p>Session 13 (<a href="24500S05_13.pdf">PDF</a>)</p>
+</br>
+<h2 id="course30">Political Philosophy: Global Justice</h2>
+
+<ul>
+<li class="maintabletemplate">&nbsp;Rubin, Gavriel. "Liberalism and Democracy: A Response to Rawls'&nbsp;<em>The Law of Peoples</em>." (<a href="rubin_paper.pdf">PDF</a>)</li>
+</ul>
 </br>
