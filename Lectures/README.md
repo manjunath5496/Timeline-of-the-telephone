@@ -20,7 +20,7 @@
 <li><a href="#course19">Metaphysics: Free Will</a></li>
  <li><a href="#course20">Ethics</a></li>
 <li><a href="#course21">Philosophy of Law</a></li> 
- <li><a href="#course16">Theory of Knowledge</a></li>  
+ <li><a href="#course22">Topics in Social Theory and Practice: Race and Racism</a></li>  
    <li><a href="#course17">Philosophy of Film</a></li> 
   <li><a href="#course18">Metaphysics</a></li> 
 
@@ -1670,3 +1670,83 @@
 </tbody>
 </table>
 </br>
+<h2 id="course22">Topics in Social Theory and Practice: Race and Racism</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="MIT24_236F14_Sess2.pdf">A Tiny Slice of the History of the Concept of Race (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_236F14_Sess3.pdf">"Our" Concept of Race (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_236F14_Sess5.pdf">Appiah and the Meaning of 'Race' (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_236F14_Sess6.pdf">Race and Medicine (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_236F14_Sess7.pdf">Race and Ethnicity (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_236F14_Sess8.pdf">Kinds of Social Construction (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_236F14_Sess9.pdf">Intersectionality (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_236F14_Sess10.pdf">Race and the Construction of Social Identity (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_236F14_Sess11.pdf">Gender and Race Constructions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_236F14_Sess12.pdf">Racial Identities (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_236F14_Sess13.pdf">Latina/o Identity and Race (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_236F14_Sess15.pdf">Panethnicity (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_236F14_Sess16.pdf">Are Arabs a Race? (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_236F14_Sess17.pdf">Extrinsic, Intrinsic &amp; Cultural Racisms (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_236F14_Sess18.pdf">Racism in the Heart (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_236F14_Sess19.pdf">Oppression and Institutional Racism (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_236F14_Sess20.pdf">Equality and Social Justice (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_236F14_Sess21.pdf">Equality and Respect (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_236F14_Sess22.pdf">Inter-culturation, Cultural Appropriation, and Commodity Fetishism (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_236F14_Sess24.pdf">Racial Profiling (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_236F14_Sess25.pdf">Prisons (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_236F14_Sess26.pdf">The Case for Reparations (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<p><a href="MIT24_236F14_FinalPaper.pdf">A Final Paper on Affirmative Action (PDF)</a></p>
+</br>
+
