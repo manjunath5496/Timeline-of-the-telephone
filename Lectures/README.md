@@ -9,7 +9,7 @@
 <li><a href="#course8">Philosophy of Quantum Mechanics</a></li>
 <li><a href="#course9">Paradox and Infinity</a></li>
 <li><a href="#course10">Moral Psychology </a></li>
-<li><a href="#course11">Technology and Innovation in Africa</a></li>
+<li><a href="#course11">Ethics in Your Life: Being, Thinking, Doing (or Not?)</a></li>
 <li><a href="#course12">History and Anthropology of Medicine and Biology</a></li>
 <li><a href="#course13">Introduction to the History of Technology</a></li>
  <li><a href="#course14">Godzilla and the Bullet Train: Technology and Culture in Modern Japan</a></li>
@@ -1160,4 +1160,15 @@
 </table>
 
 </br>
+<h2 id="course11">Ethics in Your Life: Being, Thinking, Doing (or Not?)</h2>
+
+<h3 class="subsubhead">Reflection Papers</h3>
+<p><a href="MIT24_191S15_Denial.pdf">"American Denial" (PDF)</a></p>
+<p><a href="MIT24_191S15_Housing.pdf">"Housing Dynamics and Displacement in Cambridge" (PDF)</a></p>
+<p><a href="MIT24_191S15_Fossil.pdf">"MIT Fossil Fuel Divestment Debate" (PDF)</a></p>
+<p><a href="MIT24_191S15_Slut.pdf">"Slut: The Play" (PDF)</a></p>
+<h3 class="subsubhead">Final Presentation</h3>
+<p><a href="MIT24_191S15_Racism.pdf">"Racism" (PDF)</a></p>
+</br>
+
 
