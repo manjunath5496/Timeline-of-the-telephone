@@ -21,7 +21,7 @@
  <li><a href="#course20">Ethics</a></li>
 <li><a href="#course21">Philosophy of Law</a></li> 
  <li><a href="#course22">Topics in Social Theory and Practice: Race and Racism</a></li>  
-   <li><a href="#course17">Philosophy of Film</a></li> 
+   <li><a href="#course23">Feminist Thought</a></li> 
   <li><a href="#course18">Metaphysics</a></li> 
 
  
@@ -1749,4 +1749,125 @@
 </br>
 <p><a href="MIT24_236F14_FinalPaper.pdf">A Final Paper on Affirmative Action (PDF)</a></p>
 </br>
+<h2 id="course23">Feminist Thought</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>Introductory Class</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MITWGS_301JF14_Sess2.pdf">Prejudice, Discrimination, and Oppression (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MITWGS_301JF14_Sess3.pdf">Privilege and Speaking for Others (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Film: Diagnosing Difference</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="MITWGS_301JF14_Sess5.pdf">Social Construction: Class, Gender, Race Disability&hellip; (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MITWGS_301JF14_Sess6.pdf">Constructions of Gender (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MITWGS_301JF14_Sess7.pdf">Mill's&nbsp;<em>The Subjection of Women&nbsp;</em>(PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Student Discussion</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="MITWGS_301JF14_Sess9.pdf">Beauvoir and Butler (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MITWGS_301JF14_Sess10.pdf">Justice and Human Capabilities (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p>Domestic Violence</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MITWGS_301JF14_Sess12.pdf">From Humanism to Gynocentrism (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MITWGS_301JF14_Sess13.pdf">Maternal Peace Politics (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Midterm Reflection</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="MITWGS_301JF14_Sess15.pdf">Difference and Dominance (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MITWGS_301JF14_Sess16.pdf">Materialist Feminism (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MITWGS_301JF14_Sess17.pdf">Pornography (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MITWGS_301JF14_Sess18.pdf">Women, Lesbians, Virgins (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MITWGS_301JF14_Sess19.pdf">Identity Politics (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MITWGS_301JF14_Sess20.pdf">Childbearing from the Perspective of Poor Black Women (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MITWGS_301JF14_Sess21.pdf">Recognition and Redistribution (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Queer Theory</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Film: Forbidden Voices: How to Start a Revolution with a Laptop</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MITWGS_301JF14_Sess24.pdf">Veiling and the Construction of Gender (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p>Masculinities</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MITWGS_301JF14_Sess26.pdf">Epistemic Injustice (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p>Final Presentations</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
 
