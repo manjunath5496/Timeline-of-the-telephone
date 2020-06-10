@@ -17,6 +17,12 @@
  <li><a href="#course16">Theory of Knowledge</a></li>  
    <li><a href="#course17">Philosophy of Film</a></li> 
   <li><a href="#course18">Metaphysics</a></li> 
+<li><a href="#course19">Metaphysics: Free Will</a></li>
+ <li><a href="#course14">Topics in the History of Philosophy: Kant</a></li>
+<li><a href="#course15">Philosophy In Film and Other Media</a></li> 
+ <li><a href="#course16">Theory of Knowledge</a></li>  
+   <li><a href="#course17">Philosophy of Film</a></li> 
+  <li><a href="#course18">Metaphysics</a></li> 
 
  
  
@@ -1400,3 +1406,84 @@
 <p><a href="MIT24_221S15_FinalPaper1.pdf">24.221 Final Paper (PDF)</a>&nbsp;</p>
 <p><a href="MIT24_221S15_BradleyMattix.pdf">The Problem of Identity and Mereological Nihilism (PDF)</a>&nbsp;</p>
 </br>
+<h2 id="course19">Metaphysics: Free Will</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introductory Session</td>
+</tr>
+<tr class="alt-row">
+<td>The Classical Compatibilist Account (<a href="compatibilism.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Refining the Consequence Argument and "Could have done otherwise" (<a href="consequence_argu.pdf">PDF</a>)<br /><br />Additional Notes on Modal Logic (<a href="modal_logic.pdf">PDF</a>) and Counterfactuals (<a href="counterfactuals.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Denying Closure of Unavoidability (<a href="unavoidability.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lewis on Law Breaking</td>
+</tr>
+<tr class="alt-row">
+<td>Modal Metaphysics (<a href="modal_metaphysic.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>More Modal Metaphysics (<a href="footnote.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Libertarianism I (<a href="libertarianism_i.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Libertarianism II (<a href="libertaranism_ii.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Time Travel</td>
+</tr>
+<tr class="row">
+<td>Frankfurt on Alternate Possibilities (<a href="frankfurt_i.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Reactions to Frankfurt</td>
+</tr>
+<tr class="row">
+<td>Strawson (<a href="strawson.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Reactions to Strawson (<a href="watson.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Frankfurt's Higher Order Account (<a href="frankfurt_ii.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Reactions to Frankfurt</td>
+</tr>
+<tr class="row">
+<td>Reason Responsiveness; Wolf (<a href="act_of_choice.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Choosing; Intentions; Weakness of Will</td>
+</tr>
+<tr class="row">
+<td>Choice and Freedom (<a href="act_of_choice.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Choice and Knowledge (<a href="velleman.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Empirical Work: Social Psychology I (<a href="wegner.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Empirical Work: Social Psychology II (<a href="agr_frm_illusion.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Addiction (<a href="addiction.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
