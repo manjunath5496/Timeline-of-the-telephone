@@ -33,6 +33,14 @@
  <li><a href="#course32">Introduction to Linguistics</a></li>  
    <li><a href="#course33">Language and Its Structure I: Phonology</a></li> 
   <li><a href="#course34">Language and its Structure II: Syntax</a></li> 
+  <li><a href="#course35">Lab in Psycholinguistics</a></li>  
+   <li><a href="#course33">Language and Its Structure I: Phonology</a></li> 
+  <li><a href="#course34">Language and its Structure II: Syntax</a></li> 
+ 
+ 
+ 
+ 
+ 
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Problems in Philosophy</h2>
@@ -2974,3 +2982,25 @@
 <li id="center">&nbsp;Download a copy of the final exam study guide (<a href="1/exam_guide.pdf">PDF</a>).</li>
 </ul>
 </br>
+<h2 id="course35">Lab in Psycholinguistics</h2>
+
+<p><a href="1/MIT9_59jS17_lec1.pdf">Lecture 1: Course introduction and overview (PDF)</a></p>
+<p><a href="1/MIT9_59jS17_lec2.pdf">Lecture 2: Quantitative methods in syntax &amp; semantics research (PDF)</a></p>
+<p><a href="1/MIT9_59jS17_lec3.pdf">Lecture 3: Language as communication (PDF)</a></p>
+<p><a href="1/MIT9_59jS17_lec4.pdf">Lecture 4: Language as communication (2) (PDF)</a></p>
+<p><a href="1/MIT9_59jS17_lec5.pdf">Lecture 5: Language processing over a noisy channel (PDF)</a></p>
+<p><a href="1/MIT9_59jS17_lec6.pdf">Lecture 6: Language processing over a noisy channel/locality (PDF)</a></p>
+<p><a href="1/MIT9_59jS17_lec7.pdf">Lecture 7: Noisy channel/memory in sentence processing (PDF)</a></p>
+<p><a href="1/MIT9_59jS17_lec8.pdf">Lecture 8: What makes a long-distance extraction unacceptable? (PDF - 1.1MB)</a></p>
+<p><a href="1/MIT9_59jS17_lec9.pdf">Lecture 9: Pragmatics: the use of referring expressions (PDF)</a></p>
+<p><a href="1/MIT9_59jS17_lec10.pdf">Lecture 10: The on-line computation of pragmatic information (PDF)</a></p>
+<p><a href="1/MIT9_59jS17_lec12.pdf">Lecture 12: The Foreign Language Effect: Thinking in a Foreign Tongue Reduces Decision Biases (PDF)</a></p>
+<p><a href="1/MIT9_59jS17_lec13.pdf">Lecture 13: Syntactic Priming (PDF - 1.4MB)</a></p>
+<p><a href="1/MIT9_59jS17_lec14.pdf">Lecture 14: Color Language (PDF)</a></p>
+<p><a href="1/MIT9_59jS17_lec15.pdf">Lecture 15: Language and Thought: Number (PDF - 3.6MB)</a></p>
+<p><a href="1/MIT9_59jS17_lec16.pdf">Lecture 16: Culture and Language: Recursion (PDF)</a></p>
+
+</br>
+
+
+
