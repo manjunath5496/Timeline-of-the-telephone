@@ -5,7 +5,7 @@
 <li><a href="#course4">Good Food: Ethics and Politics of Food</a></li>
 <li><a href="#course5">Relativism, Reason, and Reality</a></li>
 <li><a href="#course6">Justice</a></li>
-<li><a href="#course7">The History of Computing</a></li>
+<li><a href="#course7">Minds and Machines</a></li>
 <li><a href="#course8">Technology and Nature in American History</a></li>
 <li><a href="#course9">Drugs, Politics, and Culture</a></li>
 <li><a href="#course10">Innovation Systems for Science, Technology, Energy, Manufacturing, and Health </a></li>
@@ -782,5 +782,119 @@
 </table>
 
 </br>
-
-
+<h2 id="course7">Minds and Machines</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction</td>
+<td><span class="nobr">(<a href="MIT24_09F11_lec01.pdf">PDF - 2.1MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Searle against artificial intelligence (AI): The Chinese room argument</td>
+<td>(<a href="MIT24_09F11_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Chinese room argument (cont.)</td>
+<td>(<a href="MIT24_09F11_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The Chinese room argument (cont.), and the Turing test</td>
+<td>(<a href="MIT24_09F11_lec04.pdf">PDF - 1.0MB</a>)</td>
+</tr>
+<tr class="row">
+<td>The Turing test (cont.)</td>
+<td>(<a href="MIT24_09F11_lec05.pdf">PDF - 1.1MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Computational complexity (guest lecture by Scott Aaronson)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Dualism</td>
+<td>(<a href="MIT24_09F11_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Dualism (cont.)</td>
+<td>(<a href="MIT24_09F11_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>From dualism to behaviorism</td>
+<td>(<a href="MIT24_09F11_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>From behaviorism to the identity theory</td>
+<td>(<a href="MIT24_09F11_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The identity theory (cont.)</td>
+<td>(<a href="MIT24_09F11_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Kripke's Objection</td>
+<td>(<a href="MIT24_09F11_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Functionalism</td>
+<td>(<a href="MIT24_09F11_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Review session</td>
+<td>(<a href="MIT24_09F11_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>From functionalism to externalism</td>
+<td>(<a href="MIT24_09F11_lec15.pdf">PDF - 1.8MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Externalism</td>
+<td>(<a href="MIT24_09F11_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>From externalism to perception</td>
+<td>(<a href="MIT24_09F11_lec17.pdf">PDF - 1.3MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Perception: Valberg's puzzle of experience</td>
+<td>(<a href="MIT24_09F11_lec18.pdf">PDF - 3.1MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Perception, consciousness, and intentionality</td>
+<td>(<a href="MIT24_09F11_lec19.pdf">PDF - 1.1MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Perception, consciousness, and intentionality (cont.)</td>
+<td>(<a href="MIT24_09F11_lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Jackson's knowledge argument</td>
+<td>(<a href="MIT24_09F11_lec21.pdf">PDF - 1.4MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Nagel on bats</td>
+<td>(<a href="MIT24_09F11_lec22.pdf">PDF - 1.1MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Consciousness and its place in nature</td>
+<td>(<a href="MIT24_09F11_lec23.pdf">PDF - 1.1MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Consciousness and its place in nature (cont.)</td>
+<td>(<a href="MIT24_09F11_lec24.pdf">PDF - 1.5MB</a>)</td>
+</tr>
+<tr class="row">
+<td>Free will</td>
+<td>(<a href="MIT24_09F11_lec25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Last lecture, including information about the final exam</td>
+<td>(<a href="MIT24_09F11_lec26.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
