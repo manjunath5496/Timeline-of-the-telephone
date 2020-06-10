@@ -13,7 +13,7 @@
 <li><a href="#course12">Ancient Philosophy</a></li>
 <li><a href="#course13">Topics in the History of Philosophy: Justice and Political Economy</a></li>
  <li><a href="#course14">Topics in the History of Philosophy: Kant</a></li>
-<li><a href="#course15">Engineering Apollo: The Moon Project as a Complex System</a></li> 
+<li><a href="#course15">Philosophy In Film and Other Media</a></li> 
  <li><a href="#course16">Cultural History of Technology</a></li>  
    <li><a href="#course17">Social and Political Implications of Technology</a></li> 
   <li><a href="#course18">Technology and the Literary Imagination</a></li> 
@@ -1355,5 +1355,13 @@
 </br>
 <ul>
 <li class="maintabletemplate">&nbsp;Short Exercise Sample Answer (<a href="short_exer_answr.pdf">PDF</a>)&nbsp;</li>
+</ul>
+</br>
+<h2 id="course15">Philosophy In Film and Other Media</h2>
+
+<ul>
+<li>Living with Death (<a href="death_1.pdf">PDF</a>)&nbsp;</li>
+<li>Imagination and Perception (<a href="imagination.pdf">PDF</a>)&nbsp;</li>
+<li>The Silence in Heaven: Finding Meaning In Life (<a href="Philosophy.pdf">PDF</a>)&nbsp;</li>
 </ul>
 </br>
