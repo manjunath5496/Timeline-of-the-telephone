@@ -31,7 +31,7 @@
    <li><a href="#course30">Political Philosophy: Global Justice</a></li>
 <li><a href="#course31">Topics in Epistemology: Self-Knowledge</a></li> 
  <li><a href="#course32">Introduction to Linguistics</a></li>  
-   <li><a href="#course28">Topics in Philosophy of Mind: Perceptual Experience</a></li> 
+   <li><a href="#course33">Language and Its Structure I: Phonology</a></li> 
   <li><a href="#course29">Topics in Philosophy of Mind: Self-Knowledge</a></li> 
 </ul>
 <p>&nbsp;</p>
@@ -2607,6 +2607,115 @@
 <p>The "Ebonics" controversy</p>
 </td>
 <td><a href="1/MIT24_900F12_Dialects.pdf">Dialects lectures slides (PDF - 1.6MB)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course33">Language and Its Structure I: Phonology</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction, course overview, vowels: articulatory description and transcription</td>
+<td>(<a href="1/MIT24_901F10_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Consonants: articulatory description and transcription; distinctive features</td>
+<td>(<a href="1/MIT24_901F10_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Phonological versus phonetic representations</td>
+<td>(<a href="1/MIT24_901F10_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Alternations and derivations I</td>
+<td>(<a href="1/MIT24_901F10_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Alternations and derivations II</td>
+<td>(<a href="1/MIT24_901F10_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Constraints</td>
+<td>(<a href="1/MIT24_901F10_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Phonetics I: acoustics of vowels, using Praat</td>
+<td>(<a href="1/MIT24_901F10_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Phonetics II: acoustics of consonants</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT24_901F10_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Phonetics III: suprasegmentals</td>
+<td>(<a href="1/MIT24_901F10_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Feature geometry</td>
+<td>(<a href="1/MIT24_901F10_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Course review</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Sociolinguistic variables</td>
+<td>(<a href="1/MIT24_901F10_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>American English dialects</td>
+<td>(<a href="1/MIT24_901F10_Lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Tone I: African languages</td>
+<td>(<a href="1/MIT24_901F10_Lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Tone II: Asian languages</td>
+<td>(<a href="1/MIT24_901F10_Lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Tone III: intonation and phrasing</td>
+<td>(<a href="1/MIT24_901F10_Lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Syllables I: structure and syllabification</td>
+<td>(<a href="1/MIT24_901F10_Lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Syllables II: sonority</td>
+<td>(<a href="1/MIT24_901F10_Lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Stress I: prominence</td>
+<td>(<a href="1/MIT24_901F10_Lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Stress II: rhythm</td>
+<td>(<a href="1/MIT24_901F10_Lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Stress III: weight</td>
+<td>(<a href="1/MIT24_901F10_Lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Prosodic morphology: reduplication and truncation</td>
+<td>(<a href="1/MIT24_901F10_Lec23.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Loanword phonology</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT24_901F10_lec24.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Review</td>
+<td>(<a href="1/MIT24_901F10_lec25.pdf">PDF</a>)</td>
 </tr>
 </tbody>
 </table>
