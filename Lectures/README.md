@@ -10,7 +10,7 @@
 <li><a href="#course9">Paradox and Infinity</a></li>
 <li><a href="#course10">Moral Psychology </a></li>
 <li><a href="#course11">Ethics in Your Life: Being, Thinking, Doing (or Not?)</a></li>
-<li><a href="#course12">History and Anthropology of Medicine and Biology</a></li>
+<li><a href="#course12">Ancient Philosophy</a></li>
 <li><a href="#course13">Introduction to the History of Technology</a></li>
  <li><a href="#course14">Godzilla and the Bullet Train: Technology and Culture in Modern Japan</a></li>
 <li><a href="#course15">Engineering Apollo: The Moon Project as a Complex System</a></li> 
@@ -1171,4 +1171,119 @@
 <p><a href="MIT24_191S15_Racism.pdf">"Racism" (PDF)</a></p>
 </br>
 
-
+<h2 id="course12">Ancient Philosophy</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+<th id="col3" scope="col">LECTURE NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Introduction</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Socrates and the Sophists</td>
+<td headers="col3">Characteristic Socratic Theses (<a href="soctheses.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Socrates and the Law</td>
+<td headers="col3">Characteristic Socratic Theses (cont.)&nbsp;(<a href="soctheses.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Socratic Method</td>
+<td headers="col3">Euthyphro and the Elenchus (<a href="euthyhdo.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Knowledge and Learning</td>
+<td headers="col3">Meno on Knowledge and Inquiry (<a href="menoinq.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Prudential Paradox</td>
+<td headers="col3">Meno on Knowledge and Inquiry (cont.)&nbsp;(<a href="menoinq.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Immortality and the Soul</td>
+<td headers="col3">Immortality in the Phaedo (<a href="phaedo.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Introduction of the Forms</td>
+<td headers="col3">Notes on Platonic Forms (<a href="forms.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Why Be Moral?</td>
+<td headers="col3">Republic I-II (<a href="repgoods.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Justice in the City</td>
+<td headers="col3">Social Justice and Psychic Justice in the Republic (<a href="socpsychjustice.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Justice in the Soul</td>
+<td headers="col3">Social Justice and Psychic Justice in the Republic (cont.)&nbsp;(<a href="socpsychjustice.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Theory of Forms</td>
+<td headers="col3">Plato's Sun, Line, and Cave (<a href="sunlinecave.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Happiness, Liberty, and Social Engineering</td>
+<td headers="col3">Plato on Happiness (<a href="repsum.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Aristotle on Plato</td>
+<td headers="col3">Third Man Argument (<a href="thirdman.pdf">PDF</a>)<br /><br />Aristotle's Categories and Early Thoughts on Substance (<a href="arist1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Matter and Form</td>
+<td headers="col3">Aristotle's Categories II (<a href="acat.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Essence, God</td>
+<td headers="col3">Aristotle's Four Causes (<a href="4causes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">On the Soul</td>
+<td headers="col3">Aristotle on Science (<a href="arsciencehdo.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Perception, Understanding</td>
+<td headers="col3">Aristotle on Primary Substance (<a href="asubsthdo.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Happiness</td>
+<td headers="col3">Aristotle on the Human Good (<a href="afunction.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Virtue</td>
+<td headers="col3">The Greek Conception of Virtue (<a href="greekvirtueshort.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Weakness of Will</td>
+<td headers="col3">Socrates on Weakness of Will (Akrasia) (<a href="akrasia.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Friendship</td>
+<td headers="col3">Aristotle: Voluntary/Involuntary (<a href="avolunt.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Contemplation</td>
+<td headers="col3">Epicurean Empiricism (<a href="eplucre04.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Epicurean Atomism</td>
+<td headers="col3">Lucretius on Death (<a href="death04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Epicurean Morality</td>
+<td headers="col3">Lucretius on Death (cont.)&nbsp;(<a href="death04.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Death</td>
+<td headers="col3">Lucretius on Death (cont.)&nbsp;(<a href="death04.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
