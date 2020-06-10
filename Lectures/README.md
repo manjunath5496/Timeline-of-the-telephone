@@ -26,7 +26,7 @@
 
   <li><a href="#course25">Logic II</a></li>
 <li><a href="#course26">Modal Logic</a></li> 
- <li><a href="#course22">Topics in Social Theory and Practice: Race and Racism</a></li>  
+ <li><a href="#course27">Introduction to Philosophy of Language</a></li>  
    <li><a href="#course23">Feminist Thought</a></li> 
   <li><a href="#course24">Logic I</a></li> 
  
@@ -2178,3 +2178,122 @@
 </tbody>
 </table>
 </br>
+<h2 id="course27">Introduction to Philosophy of Language</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction</td>
+<td>(<a href="MIT24_251F11_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Meaning and reference</td>
+<td>(<a href="MIT24_251F11_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Descriptions</td>
+<td>(<a href="MIT24_251F11_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Names and descriptions</td>
+<td>(<a href="MIT24_251F11_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Direct reference</td>
+<td>(<a href="MIT24_251F11_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>What is meaning?</td>
+<td>(<a href="MIT24_251F11_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Empiricist theories</td>
+<td>(<a href="MIT24_251F11_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Psychological theories</td>
+<td>(<a href="MIT24_251F11_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Truth-conditional theories</td>
+<td>(<a href="MIT24_251F11_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Context sensitivity</td>
+<td>(<a href="MIT24_251F11_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The essential indexical</td>
+<td>(<a href="MIT24_251F11_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The Kripkenstein paradox</td>
+<td>(<a href="MIT24_251F11_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Naturalistic reduction</td>
+<td>(<a href="MIT24_251F11_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Speech acts</td>
+<td>(<a href="MIT24_251F11_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Illocutionary force</td>
+<td>(<a href="MIT24_251F11_lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Presupposition</td>
+<td>(<a href="MIT24_251F11_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Assertion</td>
+<td>(<a href="MIT24_251F11_lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Implicature</td>
+<td>(<a href="MIT24_251F11_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Attitudes, the hidden indexical theory</td>
+<td>(<a href="MIT24_251F11_lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Attitudes, the implicature theory</td>
+<td>(<a href="MIT24_251F11_lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Attitudes, the pragmatic theory</td>
+<td>(<a href="MIT24_251F11_lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Non-literal speech</td>
+<td>(<a href="MIT24_251F11_lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Making believe</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Semantic pretense and attitude ascriptions</td>
+<td>(<a href="MIT24_251F11_lec24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Pragmatic pretense and Frege problems</td>
+<td>(<a href="MIT24_251F11_lec25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Humpty Dumpty, malaprop, etc.</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
