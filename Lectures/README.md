@@ -19,7 +19,7 @@
   <li><a href="#course18">Metaphysics</a></li> 
 <li><a href="#course19">Metaphysics: Free Will</a></li>
  <li><a href="#course20">Ethics</a></li>
-<li><a href="#course15">Philosophy In Film and Other Media</a></li> 
+<li><a href="#course21">Philosophy of Law</a></li> 
  <li><a href="#course16">Theory of Knowledge</a></li>  
    <li><a href="#course17">Philosophy of Film</a></li> 
   <li><a href="#course18">Metaphysics</a></li> 
@@ -1639,4 +1639,34 @@
 </tbody>
 </table>
 </br>
+<h2 id="course21">Philosophy of Law</h2>
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">STUDENT&nbsp;EXAMPLES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="MIT24_235JS12_Firstpaper.pdf">First short paper topics (PDF)</a></td>
+<td><a href="MIT24_235JS12_Hartrules.pdf">An Analysis of Hart's Theory of Primary and Secondary Rules (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_235JS12_Secondpaper.pdf">Second short paper topics (PDF)</a></td>
+<td><a href="MIT24_235JS12_Wolff.pdf">Supporting Wolff's Anarchism (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_235JS12_Thirdpaper.pdf">Third short paper topics (PDF)</a></td>
+<td><a href="MIT24_235JS12_Punishment.pdf">The Punishment That Leaves Something to Chance Leaves Something Out (PDF)</a>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_235JS12_Finalpaper.pdf">Final paper topics (PDF)</a></td>
+<td><a href="MIT24_235JS12_Paternalism.pdf">Paternalism and Irrationality (PDF)</a>
+<p><a href="MIT24_235JS12_Rawlsonrules.pdf">Rawls' Two Concepts of Rules and the Time Inconsistency Problem (PDF)</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
