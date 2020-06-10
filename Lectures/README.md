@@ -8,7 +8,7 @@
 <li><a href="#course7">Minds and Machines</a></li>
 <li><a href="#course8">Philosophy of Quantum Mechanics</a></li>
 <li><a href="#course9">Paradox and Infinity</a></li>
-<li><a href="#course10">Innovation Systems for Science, Technology, Energy, Manufacturing, and Health </a></li>
+<li><a href="#course10">Moral Psychology </a></li>
 <li><a href="#course11">Technology and Innovation in Africa</a></li>
 <li><a href="#course12">History and Anthropology of Medicine and Biology</a></li>
 <li><a href="#course13">Introduction to the History of Technology</a></li>
@@ -1027,3 +1027,137 @@
 </tbody>
 </table>
 </br>
+<h2 id="course10">Moral Psychology</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>I. Egoism</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Egoism (<a href="MIT24_120s09_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Egoism: empirical and quasi-empirical issues (<a href="MIT24_120s09_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>II. Beliefs, desires, and intentions</strong></td>
+</tr>
+<tr class="row">
+<td>Belief/desire psychology and the Humean theory of motivation (<a href="MIT24_120s09_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Bratman on intention (<a href="MIT24_120s09_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>III. Reducing intentions</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Velleman on intention (<a href="MIT24_120s09_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>IV.&nbsp;<em>Akrasia</em>&nbsp;and weakness of will</strong></td>
+</tr>
+<tr class="alt-row">
+<td><em>Akrasia</em>&nbsp;(<a href="MIT24_120s09_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><em>Akrasia</em>&nbsp;and desire (<a href="MIT24_120s09_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>V. Strength of will</strong></td>
+</tr>
+<tr class="row">
+<td>Strength of will: descriptive issues (<a href="MIT24_120s09_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Strength of will: normative issues (<a href="MIT24_120s09_lec09.pdf">PDF 1</a>) (<a href="MIT24_120s09_lec10.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>VI. Addiction</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Addiction I (<a href="MIT24_120s09_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Addiction II (<a href="MIT24_120s09_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>VII. Free will I</strong></td>
+</tr>
+<tr class="row">
+<td>Free will I (<a href="MIT24_120s09_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Free will II (<a href="MIT24_120s09_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>VIII. Free will II</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Free will IV: libertarianism (<a href="MIT24_120s09_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Free will III: Strawson (<a href="MIT24_120s09_lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>IX. Free will III</strong></td>
+</tr>
+<tr class="row">
+<td>
+<p>Free will VI: empirical work (<a href="MIT24_120s09_lec18.pdf">PDF</a>)</p>
+<p>Free will V: choice (<a href="MIT24_120s09_lec17.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>X. Identification and autonomy</strong></td>
+</tr>
+<tr class="row">
+<td>Identification (<a href="MIT24_120s09_lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Self-determination theory (<a href="MIT24_120s09_lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>XI. Self-Deception</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Self-deception (<a href="MIT24_120s09_lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>XII. Moral psychology I: what could empirical work tell us about morality?</strong></td>
+</tr>
+<tr class="alt-row">
+<td>The metaethical implications of empirical work (<a href="MIT24_120s09_lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Moral judgment and motivation (<a href="MIT24_120s09_lec23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>XIII. Moral psychology II</strong></td>
+</tr>
+<tr class="row">
+<td>Autism and sociopathy (<a href="MIT24_120s09_lec24.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Moral luck and the Knobe effect (<a href="MIT24_120s09_lec25.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>XIV. Moral psychology III</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Virtue and character (<a href="MIT24_120s09_lec26.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Determinism and moral motivation</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
