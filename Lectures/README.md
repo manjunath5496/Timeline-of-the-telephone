@@ -38,7 +38,7 @@
   <li><a href="#course37">Topics in Linguistic Theory: Propositional Attitudes</a></li> 
    <li><a href="#course38">Topics in Linguistic Theory: Laboratory Phonology</a></li> 
    <li><a href="#course39">Topics in Linguistics Theory</a></li> 
-  <li><a href="#course37">Topics in Linguistic Theory: Propositional Attitudes</a></li> 
+  <li><a href="#course40">Black Matters: Introduction to Black Studies</a></li> 
    <li><a href="#course38">Topics in Linguistic Theory: Laboratory Phonology</a></li> 
  
  
@@ -3168,4 +3168,16 @@
 <p>Evidentials (<a href="1/2_evidentials.pdf">PDF</a>)</p>
 <p>Performatives, Epistemic Modality (<a href="1/3_epistemicperformative.pdf">PDF</a>)</p>
 </br>
+<h2 id="course40">Black Matters: Introduction to Black Studies</h2>
+
+<p><a href="1/MIT24_912S17_pres1.pdf">Interrogating Erasure: Moving Past the Forces of Forgetting (PDF)</a></p>
+<p><a href="1/MIT24_912S17_presentation_2.pdf">Thinking Through The Unthinkable: The Haitian Revolution (PDF)</a></p>
+<p><a href="1/MIT24_912S17_presentation_3.pdf">The Heroic Slave and the Introduction to Benito Cereno (PDF - 1.4MB)</a></p>
+<p><a href="1/MIT24_912S17_presentation_4.pdf">Politics of Language &amp; (mis)education in the U.S. &amp; the Carribean (PDF)</a></p>
+<p><a href="1/MIT24_912S17_presentation_5.pdf">Immigration, Politics and Elections (PDF - 1.1MB)</a></p>
+<p><a href="1/MIT24_912S17_presentation_6.pdf">Language, Resistance, &amp; Liberation (PDF)</a></p>
+
+</br>
+
+
 
