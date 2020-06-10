@@ -28,7 +28,7 @@
 <li><a href="#course26">Modal Logic</a></li> 
  <li><a href="#course27">Introduction to Philosophy of Language</a></li>  
    <li><a href="#course28">Topics in Philosophy of Mind: Perceptual Experience</a></li> 
-  <li><a href="#course24">Logic I</a></li> 
+  <li><a href="#course29">Topics in Philosophy of Mind: Self-Knowledge</a></li> 
  
 </ul>
 <p>&nbsp;</p>
@@ -2351,4 +2351,19 @@
 </tbody>
 </table>
 </br>
+<h2 id="course29">Topics in Philosophy of Mind: Self-Knowledge</h2>
 
+<p>Session 1 (<a href="24500S05_1.pdf">PDF</a>)</p>
+<p>Session 2 (<a href="24500S05_2.pdf">PDF</a>)</p>
+<p>Session 3 (<a href="24500S05_3.pdf">PDF</a>)</p>
+<p>Session 4 (<a href="24500S05_4.pdf">PDF</a>)</p>
+<p>Session 5 (<a href="24500S05_5.pdf">PDF</a>)</p>
+<p>Session 6 (<a href="24500S05_6.pdf">PDF</a>)</p>
+<p>Session 7 (<a href="24500S05_7.pdf">PDF</a>)</p>
+<p>Session 8 (<a href="24500S05_8.pdf">PDF</a>)</p>
+<p>Session 9 (<a href="24500S05_9.pdf">PDF</a>)</p>
+<p>Session 10 (<a href="24500S05_10.pdf">PDF</a>)</p>
+<p>Session 11 (<a href="24500S05_11.pdf">PDF</a>)</p>
+<p>Session 12 (<a href="24500S05_12.pdf">PDF</a>)</p>
+<p>Session 13 (<a href="24500S05_13.pdf">PDF</a>)</p>
+</br>
