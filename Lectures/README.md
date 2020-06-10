@@ -14,7 +14,7 @@
 <li><a href="#course13">Topics in the History of Philosophy: Justice and Political Economy</a></li>
  <li><a href="#course14">Topics in the History of Philosophy: Kant</a></li>
 <li><a href="#course15">Philosophy In Film and Other Media</a></li> 
- <li><a href="#course16">Cultural History of Technology</a></li>  
+ <li><a href="#course16">Theory of Knowledge</a></li>  
    <li><a href="#course17">Social and Political Implications of Technology</a></li> 
   <li><a href="#course18">Technology and the Literary Imagination</a></li> 
 
@@ -1365,3 +1365,17 @@
 <li>The Silence in Heaven: Finding Meaning In Life (<a href="Philosophy.pdf">PDF</a>)&nbsp;</li>
 </ul>
 </br>
+<h2 id="course16">Theory of Knowledge</h2>
+
+<ul>
+<li><a href="MIT24_211S11_Necessary.pdf">Necessary and Sufficient Conditions (PDF)</a></li>
+<li><a href="MIT24_211S11_Arguments.pdf">Analyzing Arguments (PDF)</a></li>
+<li><a href="MIT24_211S11_Closure.pdf">The Closure Principle (PDF)</a></li>
+<li><a href="MIT24_211S11_Sensitivity.pdf">Sensitivity and Safety (PDF)</a></li>
+<li><a href="MIT24_211S11_Midterm.pdf">Midterm paper guidelines and instructions (PDF)</a></li>
+<li><a href="MIT24_211S11_Wright.pdf">"Wright, skepticism and entitlement" (PDF)</a></li>
+<li><a href="MIT24_211S11_FinalPaper.pdf">Final paper guidelines and instructions(PDF)</a></li>
+<li><a href="MIT24_211S11_ContextualSol.pdf">"The Contexualist Solution to the Lottery Paradox" (PDF)</a></li>
+</ul>
+</br>
+
