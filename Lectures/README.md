@@ -6,7 +6,7 @@
 <li><a href="#course5">Relativism, Reason, and Reality</a></li>
 <li><a href="#course6">Justice</a></li>
 <li><a href="#course7">Minds and Machines</a></li>
-<li><a href="#course8">Technology and Nature in American History</a></li>
+<li><a href="#course8">Philosophy of Quantum Mechanics</a></li>
 <li><a href="#course9">Drugs, Politics, and Culture</a></li>
 <li><a href="#course10">Innovation Systems for Science, Technology, Energy, Manufacturing, and Health </a></li>
 <li><a href="#course11">Technology and Innovation in Africa</a></li>
@@ -898,3 +898,59 @@
 </tbody>
 </table>
 </br>
+<h2 id="course8">Philosophy of Quantum Mechanics</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>Overview of Some Odd Phenomena</p>
+<p>Lecture 1 (<a href="lecture_1_2_2_05.pdf">PDF</a>)</p>
+<p>Lecture 2 (<a href="lecture_2_2_7_05.pdf">PDF</a>)</p>
+<p>Lecture&nbsp;3 (<a href="lecture_3_2_9_05.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Overview of Some Odd Phenomena (cont.)</p>
+<p>Lecture&nbsp;4 (<a href="lecture_4_2_9_05.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>The Mathematical Formalism and Its Orthodox Interpretation</p>
+<p>Lecture&nbsp;5 (<a href="lecture_5_2_14_5.pdf">PDF</a>)</p>
+<p>Lecture&nbsp;6 (<a href="lecture_6_2_14_5.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>The Mathematical Formalism and Its Orthodox Interpretation (cont.)</p>
+<p>Lecture&nbsp;7 (<a href="lecture_7_2_16_5.pdf">PDF</a>)</p>
+<p>Lecture&nbsp;8 (<a href="lecture_8_2_22_5.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>The Measurement Problem and Attempted Solutions</p>
+<p>Lecture 9 (<a href="lecture_9_2_28_5.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Hidden Variables and Proofs of Their Impossibility</td>
+</tr>
+<tr class="row">
+<td>Quantum Extravagances</td>
+</tr>
+<tr class="alt-row">
+<td>Composition and Identical Particles</td>
+</tr>
+</tbody>
+</table>
+</br>
+
