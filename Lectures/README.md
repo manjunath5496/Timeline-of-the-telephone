@@ -35,7 +35,7 @@
   <li><a href="#course34">Language and its Structure II: Syntax</a></li> 
   <li><a href="#course35">Lab in Psycholinguistics</a></li>  
    <li><a href="#course36">Creole Languages and Caribbean Identities</a></li> 
-  <li><a href="#course34">Language and its Structure II: Syntax</a></li> 
+  <li><a href="#course37">Topics in Linguistic Theory: Propositional Attitudes</a></li> 
  
  
  
@@ -3007,3 +3007,62 @@
 <p><a href="1/MIT24_908s17_Colonialism.pdf">Colonialism and Neocolonialism (PDF)</a></p>
 <p><a href="1/MIT24_908s17_Discourses.pdf">Discourses of Power (PDF)</a></p>
 </br>
+<h2 id="course37">Topics in Linguistic Theory: Propositional Attitudes</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction and preview (<a href="1/MIT24_910s09_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Semantics 1: possible world semantics for attitudes (<a href="1/MIT24_910s09_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Semantics 2: presupposition and sequence of tense (<a href="1/MIT24_910s09_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Semantics 3: self-locating attitudes and logophors (<a href="1/MIT24_910s09_lec04.pdf">PDF</a>)</p>
+<p>Student presentations 1</p>
+</td>
+</tr>
+<tr class="row">
+<td>Semantics 3: self-locating attitudes and logophors (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td>Syntax 1: CP structure and embedded clauses (<a href="1/MIT24_910s09_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Syntax 2: control and raising</p>
+<p>(<a href="1/MIT24_910s09_lec07_syntax.pdf">PDF 1</a>)</p>
+<p>(<a href="1/MIT24_910s09_lec07_hartman.pdf">PDF 2</a>)&nbsp;</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Pragmatics 1: evidentials and expressive meaning (<a href="1/MIT24_910s09_lec08.pdf">PDF</a>)</p>
+<p>Student presentations 2</p>
+</td>
+</tr>
+<tr class="row">
+<td>Pragmatics 2: conversation and common ground, context set, assertion, presupposition, and applications (<a href="1/MIT24_910s09_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Pragmatics 2: conversation and common ground and presupposition (cont.) (<a href="1/MIT24_910s09_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Pragmatics 2: presupposition and embedding verbs (cont.) (<a href="1/MIT24_910s09_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Student presentations 3</td>
+</tr>
+</tbody>
+</table>
+</br>
+
