@@ -24,7 +24,11 @@
    <li><a href="#course23">Feminist Thought</a></li> 
   <li><a href="#course24">Logic I</a></li> 
 
- 
+  <li><a href="#course25">Logic II</a></li>
+<li><a href="#course21">Philosophy of Law</a></li> 
+ <li><a href="#course22">Topics in Social Theory and Practice: Race and Racism</a></li>  
+   <li><a href="#course23">Feminist Thought</a></li> 
+  <li><a href="#course24">Logic I</a></li> 
  
 </ul>
 <p>&nbsp;</p>
@@ -1984,6 +1988,117 @@
 <tr class="alt-row">
 <td>(<a href="MIT24_241F09_hw10.pdf">PDF</a>)</td>
 <td>(<a href="MIT24_241F09_hw10_sol.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course25">Logic II</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Why Study Computability? (<a href="why_study_comptt.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Key Computability Concepts (<a href="key_coptbty_cons.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Language of Arithmetic (<a href="lange_of_arithmt.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Church-Turing Thesis (<a href="chuh_trng_thesis.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Nonstandard Models of Arithmetic (<a href="nonstandrd_modls.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>G&ouml;del Numbering (<a href="goedel_numbering.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Robinson's Arithmetic (<a href="robison_arthmetc.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Coding Proofs (<a href="coding_proofs.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Peano Arithmetic (<a href="peano_arithmetic.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Self-Reference Lemma (<a href="self_reference.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>First Incompleteness Theorem (<a href="1st_incompletens.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Interpretations (<a href="interpretations.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Tarski's Theory of Truth (<a href="tarski.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>G&ouml;del, Mechanism, and Mind</p>
+<p>Articles by Lucas and Benacerraf</p>
+</td>
+</tr>
+<tr class="row">
+<td>Second Incompleteness Theorem (<a href="2nd_incompletens.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to Modal Logic (<a href="modal_logic.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Provability Logic (<a href="provablity_logic.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Defining Exponentiation (<a href="exponentiation.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="hw1sample.pdf">PDF</a>)</td>
+<td>(<a href="hw1sampleans.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="hw2sample.pdf">PDF</a>)</td>
+<td>(<a href="hw2sampleans.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<a href="hw3sample.pdf">PDF</a>)</td>
+<td>(<a href="hw3sampleans.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4 (<a href="hw4sample.pdf">PDF</a>)</td>
+<td>(<a href="hw4sampleans.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 5 (<a href="hw5sample.pdf">PDF</a>)</td>
+<td>(<a href="hw5sampleans.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 6 (<a href="hw6sample.pdf">PDF</a>)</td>
+<td>(<a href="hw6sampleans.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 7 (<a href="hw7sample.pdf">PDF</a>)</td>
+<td>(<a href="hw7sampleans.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 8 (<a href="hw8sample.pdf">PDF</a>)</td>
+<td>(<a href="hw8sampleans.pdf">PDF</a>)</td>
 </tr>
 </tbody>
 </table>
