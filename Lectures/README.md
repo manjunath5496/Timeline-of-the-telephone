@@ -25,7 +25,7 @@
   <li><a href="#course24">Logic I</a></li> 
 
   <li><a href="#course25">Logic II</a></li>
-<li><a href="#course21">Philosophy of Law</a></li> 
+<li><a href="#course26">Modal Logic</a></li> 
  <li><a href="#course22">Topics in Social Theory and Practice: Race and Racism</a></li>  
    <li><a href="#course23">Feminist Thought</a></li> 
   <li><a href="#course24">Logic I</a></li> 
@@ -2099,6 +2099,81 @@
 <tr class="alt-row">
 <td>Problem Set 8 (<a href="hw8sample.pdf">PDF</a>)</td>
 <td>(<a href="hw8sampleans.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course26">Modal Logic</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">HANDOUTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Basic Propositional Notions</td>
+<td><a href="MIT24_244S15_Preliminaries.pdf">Modal Logic&mdash;Preliminaries (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Basic Modal Notions</td>
+<td>
+<p><a href="MIT24_244S15_Syntax.pdf">Modal Syntax and Semantics (PDF)</a></p>
+<p><a href="MIT24_244S15_BasicModal.pdf">Basic Modal Systems (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>System K</td>
+<td><a href="MIT24_244S15_Adequacy.pdf">Adequacy and Extensions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Extensions of K</td>
+<td><a href="MIT24_244S15_Stronger.pdf">Stronger Systems (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Testing for Validity</td>
+<td><a href="MIT24_244S15_Testing.pdf">Testing: Decidable &amp; Undecidable Systems (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Modal Metalogic</td>
+<td><a href="MIT24_244S15_Completeness.pdf">Modal Metalogic: Completeness (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Glimpses Beyond</td>
+<td><a href="MIT24_244S15_Counterfact.pdf">Counterfactuals, Neighborhood Semantics, Probability, Predicative Necessity, etc. (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Modal Predicate Logic</td>
+<td><a href="MIT24_244S15_Predicate.pdf">Modal Predicate Logic (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Modal Predicate Metalogic</td>
+<td><a href="MIT24_244S15_Metalogic.pdf">Modal Predicate Metalogic (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Shifting Domains</td>
+<td><a href="MIT24_244S15_Shifting.pdf">Shifting Domains (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Existence and Identity</td>
+<td><a href="MIT24_244S15_Existence.pdf">Existence and Identity (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Descriptions and Rigidity</td>
+<td>
+<p><a href="MIT24_244S15_Identity.pdf">Identity and Descriptions (PDF)</a></p>
+<p><a href="MIT24_244S15_Contingent.pdf">Contingent Identity (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>Intensional Objects</td>
+<td><a href="MIT24_244S15_Intensional.pdf">Intensional Objects (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Special Topics</td>
+<td><a href="MIT24_244S15_Sets.pdf">Sets, Actuality, Counterparts (PDF)</a></td>
 </tr>
 </tbody>
 </table>
