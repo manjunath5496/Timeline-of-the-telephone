@@ -18,7 +18,7 @@
    <li><a href="#course17">Philosophy of Film</a></li> 
   <li><a href="#course18">Metaphysics</a></li> 
 <li><a href="#course19">Metaphysics: Free Will</a></li>
- <li><a href="#course14">Topics in the History of Philosophy: Kant</a></li>
+ <li><a href="#course20">Ethics</a></li>
 <li><a href="#course15">Philosophy In Film and Other Media</a></li> 
  <li><a href="#course16">Theory of Knowledge</a></li>  
    <li><a href="#course17">Philosophy of Film</a></li> 
@@ -1482,6 +1482,159 @@
 </tr>
 <tr class="row">
 <td>Addiction (<a href="addiction.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course20">Ethics</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">HANDOUTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Part I: Meta-ethics</strong></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Non-naturalism</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Plato's dialogue and the "Euthyphro Problem"</td>
+<td>(<a href="MIT24_231F09_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Moore on goodness as simple and indefinable</td>
+<td>(<a href="MIT24_231F09_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Non-cognitivism</strong></td>
+</tr>
+<tr class="row">
+<td>Ayer on the emotive theory of ethics</td>
+<td>(<a href="MIT24_231F09_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Brink on the form and content of moral judgments</td>
+<td>(<a href="MIT24_231F09_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>The epistemic problem for cognitivism</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Harman on ethics and observation</td>
+<td>(<a href="MIT24_231F09_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Sturgeon on moral explanations</td>
+<td>(<a href="MIT24_231F09_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Moral relativism</strong></td>
+</tr>
+<tr class="row">
+<td>Harman on moral relativism</td>
+<td>(<a href="MIT24_231F09_lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Foot on moral relativism</td>
+<td>(<a href="MIT24_231F09_lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lyons on ethical relativism and the problem of incoherence</td>
+<td>(<a href="MIT24_231F09_lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Part II: Normative ethics</strong></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Goodness</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Mill on utilitarianism</td>
+<td>(<a href="MIT24_231F09_lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Nozick and Parfit on theories of well-being</td>
+<td>(<a href="MIT24_231F09_lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Norcross on comparing harms</td>
+<td>(<a href="MIT24_231F09_lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Rightness</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Williams critiquing utilitarianism</td>
+<td>(<a href="MIT24_231F09_lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Lenman on consequentialism and cluelessness</td>
+<td>(<a href="MIT24_231F09_lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Singer on act-utilitarianism</td>
+<td>(<a href="MIT24_231F09_lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Rawls on rules</td>
+<td>(<a href="MIT24_231F09_lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Nagel on agent-relative reasons</td>
+<td>(<a href="MIT24_231F09_lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Distributive justice</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Rawls and Nagel on equality</td>
+<td>(<a href="MIT24_231F09_lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Williams on the idea of equality</td>
+<td>(<a href="MIT24_231F09_lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Singer on famine, affluence, and morality</td>
+<td>(<a href="MIT24_231F09_lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Part III: Moral character</strong></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Virtue</strong></td>
+</tr>
+<tr class="row">
+<td>Arpaly on moral worth</td>
+<td>(<a href="MIT24_231F09_lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Wolf on moral saints</td>
+<td>(<a href="MIT24_231F09_lec23.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Free will and moral responsibility</strong></td>
+</tr>
+<tr class="alt-row">
+<td>van Inwagen on the incompatibility of free will and determinism</td>
+<td>(<a href="MIT24_231F09_lec24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Frankfurt on moral responsibility</td>
+<td>(<a href="MIT24_231F09_lec25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Nagel on moral luck</td>
+<td>(<a href="MIT24_231F09_lec26.pdf">PDF</a>)</td>
 </tr>
 </tbody>
 </table>
