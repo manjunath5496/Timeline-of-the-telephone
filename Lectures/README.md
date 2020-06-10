@@ -3150,7 +3150,7 @@
 <td>Phonetics and phonology of accent variation</td>
 <td>
 <p>(<a href="1/lec11_accents.pdf">PDF - 1.1 MB</a>)</p>
-<p>Audio samples (<a href="1/lec11_audio.zip">ZIP</a>) (The ZIP file contains 14 .wav files)</p>
+
 </td>
 </tr>
 <tr class="alt-row">
