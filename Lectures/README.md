@@ -36,7 +36,7 @@
   <li><a href="#course35">Lab in Psycholinguistics</a></li>  
    <li><a href="#course36">Creole Languages and Caribbean Identities</a></li> 
   <li><a href="#course37">Topics in Linguistic Theory: Propositional Attitudes</a></li> 
- 
+   <li><a href="#course38">Topics in Linguistic Theory: Laboratory Phonology</a></li> 
  
  
  
@@ -3065,4 +3065,103 @@
 </tbody>
 </table>
 </br>
+<h2 id="course38">Topics in Linguistic Theory: Laboratory Phonology</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>Introduction</p>
+<p>Laboratory phonology</p>
+</td>
+<td>
+<p>(<a href="1/lec1.pdf">PDF - 2.7 MB</a>)</p>
+<p>Audio samples (<a href="1/lec1_audio.zip">ZIP</a>)&nbsp;(The ZIP file contains 4 .wav files)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Basic audition</p>
+<p>Digital signal processing</p>
+</td>
+<td>
+<p>(<a href="1/lec2_audition.pdf">PDF</a>)</p>
+<p>American vowels (<a href="1/american_vowels.wav">WAV</a>)</p>
+<p>Consonants (<a href="1/consonants1.aiff">AIFF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Source-filter theory</p>
+<p>Acoustics of vowels</p>
+</td>
+<td>(<a href="1/lec3_src_filterb.pdf">PDF - 1.3 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Adaptive dispersion</td>
+<td>(<a href="1/lec4_dispersion.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Spectral analysis</p>
+<p>Licensing by cue</p>
+</td>
+<td>(<a href="1/lec5_spectral.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Licensing by cue (cont.)</td>
+<td>(<a href="1/lec6_cues.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Intonation</td>
+<td>
+<p>(<a href="1/lec7_intonation.pdf">PDF</a>)</p>
+<p>Audio samples (<a href="1/lec7_audio.zip">ZIP</a>) (The ZIP file contains 6 .wav files)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>The meaning of intonation</td>
+<td>
+<p>(<a href="1/lec8_focus.pdf">PDF - 1.9 MB</a>)</p>
+<p>Audio samples (<a href="1/lec8_audio.zip">ZIP</a>)* (The ZIP file contains 8 .wav files)</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Basic statistics</p>
+<p>Effects of the lexicon and context on speech perception</p>
+</td>
+<td>
+<p>(<a href="1/lec9_1_stats.pdf">PDF 1</a>)</p>
+<p>(<a href="1/lec9_2_neighbor.pdf">PDF 2</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Effects of the lexicon and context on speech perception (cont.)</td>
+<td>(<a href="1/lec10_listener.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Phonetics and phonology of accent variation</td>
+<td>
+<p>(<a href="1/lec11_accents.pdf">PDF - 1.1 MB</a>)</p>
+<p>Audio samples (<a href="1/lec11_audio.zip">ZIP</a>) (The ZIP file contains 14 .wav files)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Student presentations</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
 
