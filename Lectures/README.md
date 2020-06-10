@@ -37,7 +37,9 @@
    <li><a href="#course36">Creole Languages and Caribbean Identities</a></li> 
   <li><a href="#course37">Topics in Linguistic Theory: Propositional Attitudes</a></li> 
    <li><a href="#course38">Topics in Linguistic Theory: Laboratory Phonology</a></li> 
- 
+   <li><a href="#course39">Topics in Linguistics Theory</a></li> 
+  <li><a href="#course37">Topics in Linguistic Theory: Propositional Attitudes</a></li> 
+   <li><a href="#course38">Topics in Linguistic Theory: Laboratory Phonology</a></li> 
  
  
  
@@ -3160,8 +3162,10 @@
 </tbody>
 </table>
 </br>
+<h2 id="course39">Topics in Linguistics Theory</h2>
 
-
-
-
+<p>Course Introduction (<a href="1/1_introduction.pdf">PDF</a>)</p>
+<p>Evidentials (<a href="1/2_evidentials.pdf">PDF</a>)</p>
+<p>Performatives, Epistemic Modality (<a href="1/3_epistemicperformative.pdf">PDF</a>)</p>
+</br>
 
