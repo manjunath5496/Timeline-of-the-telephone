@@ -11,7 +11,7 @@
 <li><a href="#course10">Moral Psychology </a></li>
 <li><a href="#course11">Ethics in Your Life: Being, Thinking, Doing (or Not?)</a></li>
 <li><a href="#course12">Ancient Philosophy</a></li>
-<li><a href="#course13">Introduction to the History of Technology</a></li>
+<li><a href="#course13">Topics in the History of Philosophy: Justice and Political Economy</a></li>
  <li><a href="#course14">Godzilla and the Bullet Train: Technology and Culture in Modern Japan</a></li>
 <li><a href="#course15">Engineering Apollo: The Moon Project as a Complex System</a></li> 
  <li><a href="#course16">Cultural History of Technology</a></li>  
@@ -1286,4 +1286,16 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course13">Topics in the History of Philosophy: Justice and Political Economy</h2>
+
+<p><a href="MIT24_201S16_Guidelines.pdf">Guidelines for Papers (PDF)</a></p>
+<p><a href="MIT24_201S16_Responses.pdf">Guidelines for Weekly Responses (PDF)</a></p>
+<p>&nbsp;</p>
+<p><a href="MIT24_201S16_EventResponse.pdf">Guidelines for Event Response Paper (PDF)</a></p>
+<p>&nbsp;</p>
+<p><a href="MIT24_201S16_First_Paper.pdf">First Paper Prompts (PDF)</a></p>
+<p><a href="MIT24_201S16_Second_Paper.pdf">Second Paper Prompts (PDF)</a></p>
+<p><a href="MIT24_201S16_Paper1.pdf">"Thomas Hobbes: Does Might Make Right?" (PDF)</a>.</p>
+<p><a href="MIT24_201S16_Paper2.pdf">"Adam Smith: The Origin of the Division of Labor" (PDF)</a>.</p>
 </br>
