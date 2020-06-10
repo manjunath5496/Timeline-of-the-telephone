@@ -7,7 +7,7 @@
 <li><a href="#course6">Justice</a></li>
 <li><a href="#course7">Minds and Machines</a></li>
 <li><a href="#course8">Philosophy of Quantum Mechanics</a></li>
-<li><a href="#course9">Drugs, Politics, and Culture</a></li>
+<li><a href="#course9">Paradox and Infinity</a></li>
 <li><a href="#course10">Innovation Systems for Science, Technology, Energy, Manufacturing, and Health </a></li>
 <li><a href="#course11">Technology and Innovation in Africa</a></li>
 <li><a href="#course12">History and Anthropology of Medicine and Biology</a></li>
@@ -953,4 +953,77 @@
 </tbody>
 </table>
 </br>
-
+<h2 id="course9">Problems in Philosophy</h2>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="MIT24_118S19_LecNote1.pdf">The Cantorian Theory of Size (Part I) (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_118S19_LecNote2.pdf">The Cantorian Theory of Size (Part II) (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_118S19_LecNote3.pdf">The Ordinals (Part I) (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_118S19_LecNote4.pdf">The Ordinals (Part II) (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_118S19_LecNote5.pdf">Ordinals as Blueprints (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_118S19_LecNote6.pdf">Omega-Sequence Paradoxes (Part I) (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_118S19_LecNote7.pdf">Omega-Sequence Paradoxes (Part II) (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_118S19_LecNote8.pdf">Time Travel (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_118S19_LecNote9.pdf">Time Travel and Free Will (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_118S19_LecNote10.pdf">Newcomb's Problem (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_118S19_LecNote11.pdf">Probability, Subjective and Objective (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_118S19_LecNote12.pdf">Countable Additivity (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_118S19_LecNote13.pdf">Measure Theory (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_118S19_LecNote14.pdf">The Vitali Sets (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_118S19_LecNote15.pdf">Banach-Tarski: Preliminaries (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_118S19_LecNote16.pdf">Banach-Tarski: The Theorem (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_118S19_LecNote17.pdf">Computability: Turing Machines (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_118S19_LecNote18.pdf">Non-Computable Functions (Part I) (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_118S19_LecNote19.pdf">Non-Computable Functions (Part II) (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT24_118S19_LecNote20.pdf">G&ouml;del's Theorem (Part I) (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT24_118S19_LecNote21.pdf">G&ouml;del's Theorem (Part II) (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
