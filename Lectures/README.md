@@ -41,7 +41,8 @@
   <li><a href="#course40">Black Matters: Introduction to Black Studies</a></li> 
    <li><a href="#course41">Language Variation and Change</a></li> 
  
- 
+   <li><a href="#course42">Linguistic Phonetics</a></li> 
+   <li><a href="#course41">Language Variation and Change</a></li> 
  
 </ul>
 <p>&nbsp;</p>
@@ -3233,3 +3234,27 @@
 </tbody>
 </table>
 </br>
+<h2 id="course42">Problems in Philosophy</h2>
+<p><a href="1/MIT24_915F15_lec1.pdf"><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." />1: Introduction to Phonetics and Grammar (PDF - 3.8MB)</a></p>
+<p><a href="1/MIT24_915F15_lec2.pdf">2: Audition, Analog / Digital Conversion (PDF - 1.2MB)</a></p>
+<p><a href="1/MIT24_915F15_lec3.pdf">3: Position of Phonetics in Grammars (PDF - 2.0MB)</a></p>
+<p><a href="1/MIT24_915F15_lec4.pdf">4: Source-Filter Model of Speech Production (PDF)</a></p>
+<p><a href="1/MIT24_915F15_lec5.pdf">5: Acoustics of Vowels (PDF - 1.1MB)</a></p>
+<p><a href="1/MIT24_915F15_lec6.pdf">6: Spectral Analysis Techniques (PDF - 1.8MB)</a></p>
+<p><a href="1/MIT24_915F15_lec7.pdf">7: Theory of Adaptive Dispersion (PDF)</a></p>
+<p><a href="1/MIT24_915F15_lec8.pdf">8: Source-Filter Analysis of Fricatives (PDF - 1.8MB)</a></p>
+<p><a href="1/MIT24_915F15_lec9.pdf">9: Speech Perception I: Cues, Perceptual Space (PDF)</a></p>
+<p><a href="1/MIT24_915F15_lec10.pdf">10: Speech Perception II: Distinctiveness and Cue Strength (PDF)</a></p>
+<p><a href="1/MIT24_915F15_lec11.pdf">11: The Acoustics of Nasals and Laterals (PDF)</a></p>
+<p><a href="1/MIT24_915F15_lec12.pdf">12: Speech Production (PDF - 2.2MB)</a></p>
+<p><a href="1/MIT24_915F15_lec13.pdf">13: Coarticulation: Gestures and Timing (PDF)</a></p>
+<p><a href="1/MIT24_915F15_lec14.pdf">14: Basic Statistics (PDF)</a></p>
+<p><a href="1/MIT24_915F15_lec15.pdf">15: Targets in Speech Production (PDF)</a></p>
+<p><a href="1/MIT24_915F15_lec16.pdf">16: Phonology and Lexical Access (PDF)</a></p>
+<p><a href="1/MIT24_915F15_lec17.pdf">17: Phonetic Grammar and Lexical Access (PDF)</a></p>
+<p><a href="1/MIT24_915F15_lec18.pdf">18: Phonetics and Sound Change (PDF)</a></p>
+</br>
+
+
+
+
