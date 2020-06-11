@@ -47,7 +47,7 @@
    <li><a href="#course46">Language Disorders in Children</a></li> 
    <li><a href="#course47">Pragmatics in Linguistic Theory</a></li> 
  <li><a href="#course48">Syntactic Models</a></li> 
-   <li><a href="#course45">Linguistic Theory and the Japanese Language</a></li> 
+   <li><a href="#course49">Introduction to Phonology</a></li> 
    <li><a href="#course46">Language Disorders in Children</a></li> 
    <li><a href="#course47">Pragmatics in Linguistic Theory</a></li> 
  
@@ -3542,6 +3542,146 @@
 </tbody>
 </table>
 </br>
+<h2 id="course49">Introduction to Phonology</h2>
 
-
-
+<table class="tablewidth100" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Basic Premises of the Generative Approach</td>
+<td><a href="1/MIT24_961F14_Lecture1.pdf">Lecture 1 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Rule-based Derivational Model</strong></td>
+</tr>
+<tr class="row">
+<td>Early Generative Model</td>
+<td><a href="1/MIT24_961F14_Lecture2.pdf">Lecture 2 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Ordered Rules</td>
+<td><a href="1/MIT24_961F14_Lecture3.pdf">Lecture 3 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Derivational Constraints and Conspiracies</td>
+<td><a href="1/MIT24_961F14_Lecture4.pdf">Lecture 4 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Phonotactics and Markedness</td>
+<td><a href="1/MIT24_961F14_Lecture5.pdf">Lecture 5 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Optimality Theory model</strong></td>
+</tr>
+<tr class="alt-row">
+<td>OT-1: The Basics</td>
+<td><a href="1/MIT24_961F14_Lecture6.pdf">Lecture 6 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>OT-2: Allophonic Distribution and Phonological Scales</td>
+<td><a href="1/MIT24_961F14_Lecture7.pdf">Lecture 7 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>OT-3: Positional Faithfulness, Constraint Conjunction, Global Comparison</td>
+<td><a href="1/MIT24_961F14_Lecture8.pdf">Lecture 8 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>OT-4: Serial Derivations</td>
+<td><a href="1/MIT24_961F14_Lecture9.pdf">Lecture 9 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Autosegmental Phonology</strong></td>
+</tr>
+<tr class="row">
+<td>Feature Organization-1</td>
+<td><a href="1/MIT24_961F14_Lecture10.pdf">Lecture 10 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Feature Organization-2: Organization Below The Root Node</td>
+<td><a href="1/MIT24_961F14_Lecture11.pdf">Lecture 11 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Feature Organization-3: Underspecification</td>
+<td><a href="1/MIT24_961F14_Lecture12.pdf">Lecture 12 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Licensing by Cue and P-Map</td>
+<td><a href="1/MIT24_961F14_Lecture13.pdf">Lecture 13 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Contrast and Perceptual Distinctiveness</td>
+<td><a href="1/MIT24_961F14_Lecture14.pdf">Lecture 14 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Tone-1: African Languages</td>
+<td><a href="1/MIT24_961F14_Lecture15.pdf">Lecture 15 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Tone-2: Asian Languages</td>
+<td><a href="1/MIT24_961F14_Lecture16.pdf">Lecture 16 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Harmony-1</td>
+<td><a href="1/MIT24_961F14_Lecture17.pdf">Lecture 17 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Harmony-2</td>
+<td><a href="1/MIT24_961F14_Lecture18.pdf">Lecture 18 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Prosodic Phonology</strong></td>
+</tr>
+<tr class="row">
+<td>Syllable-1: Sonority</td>
+<td><a href="1/MIT24_961F14_Lecture19.pdf">Lecture 19 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Syllable-2: Syllable Parsing</td>
+<td><a href="1/MIT24_961F14_Lecture20.pdf">Lecture 20 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>
+<p>Syllable-3: Weight</p>
+</td>
+<td><a href="1/MIT24_961F14_Lecture21.pdf">Lecture 21 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Stress-1: Metrical Grid</td>
+<td><a href="1/MIT24_961F14_Lecture22.pdf">Lecture 22 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Stress-2: Trochaic Typology</td>
+<td><a href="1/MIT24_961F14_Lecture23.pdf">Lecture 23 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Stress-3: Stress in Windows</td>
+<td><a href="1/MIT24_961F14_Lecture24.pdf">Lecture 24 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Stress-4: Peak Prominence Systems</td>
+<td><a href="1/MIT24_961F14_Lecture25.pdf">Lecture 25 Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Prosodic Morphology-1</td>
+<td><a href="1/MIT24_961F14_Lecture26.pdf">Lecture 26 Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Prosodic Morphology-2a: Hypocoristics and Clippings: Three Case Studies</td>
+<td><a href="1/MIT24_961F14_Lecture27a.pdf">Lecture 27a Notes (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Prosodic Morphology-2b: Hypocoristics in Fon (Ewe) and Spanish</td>
+<td><a href="1/MIT24_961F14_Lecture27b.pdf">Lecture 27b Notes (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Prosodic Morphology-2c: Japanese Hypocoristics, Truncations, and Argots</td>
+<td><a href="1/MIT24_961F14_Lecture27c.pdf">Lecture 27c Notes (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
