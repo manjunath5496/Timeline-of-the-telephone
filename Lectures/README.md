@@ -50,7 +50,7 @@
    <li><a href="#course49">Introduction to Phonology</a></li> 
    <li><a href="#course50">Advanced Phonology</a></li> 
    <li><a href="#course51">Speech Communication</a></li> 
- 
+   <li><a href="#course52">Topics in Semantics: Negative Polarity Items</a></li> 
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Problems in Philosophy</h2>
@@ -3866,4 +3866,62 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course52">Topics in Semantics: Negative Polarity Items</h2>
+
+<table class="tablewidth75">
+<thead>
+<tr>
+<th>GENERAL TOPICS</th>
+<th>LECTURES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction: Environments, operators, and the Condition</td>
+<td><a href="1/MIT24_979F18_lec1.pdf">Entailment, entailment-reversal, non-monotonicity, negated DPs (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Environments and modified numeral quantifiers</td>
+<td><a href="1/MIT24_979F18_lec3.pdf">Modified numeral quantifiers with distributive vs. collective predicates, maximal informativity, preview of the explanation (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Strawson entailment and definite descriptions</td>
+<td><a href="1/MIT24_979F18_lec4.pdf">Strawson entailment,&nbsp;<em>surprise</em>,&nbsp;<em>only</em>, singular definite descriptions (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Strawson entailment and definite descriptions, cont'd</td>
+<td><a href="1/MIT24_979F18_lec5.pdf">Extension of the entailment relation, decomposing definites, partitives, distributivity operator (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Strawson entailment and definite descriptions, cont'd</td>
+<td><a href="1/MIT24_979F18_lec6.pdf">Conjunction, type-shifting, event semantics, thematic roles, exhaustivity (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Modality, free choice, and exhaustification</td>
+<td><a href="1/MIT24_979F18_lec7.pdf">Existential modals, exhaustification, revision of the Condition (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Modality, free choice, and exhaustification, cont'd</td>
+<td><a href="1/MIT24_979F18_lec8.pdf">Existence presupposition, constraints and requirements on pruning (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Modality, free choice, and exhaustification, cont'd</td>
+<td><a href="1/MIT24_979F18_lec9.pdf">Exceptives, approximatives, reconstruction, universal modals, mass vs. count nouns (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Towards an explanation</td>
+<td><a href="1/MIT24_979F18_lec10.pdf">Other modal environments, Hindi NPIs, probability, and explanation (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Non-monotonicity and some challenges</td>
+<td><a href="1/MIT24_979F18_lec11.pdf">Additivity, singular definites, accommodation, non-monotone quantifiers, desire predicates (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>Non-monotonicity and some challenges, cont'd</td>
+<td><a href="1/MIT24_979F18_lec12.pdf">Intervention, minimizers, and variation (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+
 </br>
