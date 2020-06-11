@@ -40,9 +40,16 @@
    <li><a href="#course39">Topics in Linguistics Theory</a></li> 
   <li><a href="#course40">Black Matters: Introduction to Black Studies</a></li> 
    <li><a href="#course41">Language Variation and Change</a></li> 
- 
    <li><a href="#course42">Linguistic Phonetics</a></li> 
    <li><a href="#course43">ConLangs: How to Construct a Language</a></li> 
+ 
+ 
+   <li><a href="#course44">Grammar of a Less Familiar Language</a></li> 
+   <li><a href="#course41">Language Variation and Change</a></li> 
+   <li><a href="#course42">Linguistic Phonetics</a></li> 
+   <li><a href="#course43">ConLangs: How to Construct a Language</a></li> 
+ 
+ 
  
 </ul>
 <p>&nbsp;</p>
@@ -3326,3 +3333,47 @@
 </tbody>
 </table>
 </br>
+<h2 id="course44">Grammar of a Less Familiar Language</h2>
+
+<table class="tablewidth50">
+<thead>
+<tr>
+<th>LEC&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Day 1 Notes (<a href="1/10869_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Day 2 Notes (<a href="1/zazaki2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Day 3 Notes (<a href="1/11182_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Hiatus Notes (<a href="1/hiatusnotes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Day 4 Notes (<a href="1/11262_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Day 5 Notes (<a href="1/12053_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Day 6 Notes (<a href="1/11760_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Day 7 Notes (<a href="1/12056_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Day 8 Notes (<a href="1/zazakinotes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Day 9 Notes (<a href="1/zazaki21.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
