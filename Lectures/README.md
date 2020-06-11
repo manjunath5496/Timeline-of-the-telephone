@@ -49,7 +49,7 @@
  <li><a href="#course48">Syntactic Models</a></li> 
    <li><a href="#course49">Introduction to Phonology</a></li> 
    <li><a href="#course50">Advanced Phonology</a></li> 
-   <li><a href="#course47">Pragmatics in Linguistic Theory</a></li> 
+   <li><a href="#course51">Speech Communication</a></li> 
  
 </ul>
 <p>&nbsp;</p>
@@ -3792,6 +3792,77 @@
 </tr>
 <tr class="row">
 <td headers="tbl809id0_1">Student Presentations, Part 2</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course51">Speech Communication</h2>
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction and Background. Methods of Approach to Study of Speech and Language: Speech Production, Acoustics, Perception, Segments and Features, Phonology, Syntax. Phonetic Transcription. Signal Processing for Speech. Survey of Speech Anatomy, Respiratory System, Airflows and Pressures. Auditory System and Human Response to Sound. Some Basic Acoustics of Resonators and Sources, Source-filter Concepts. (<a href="1/6541j_02_03_04.pdf">PDF 1</a>) (<a href="1/6541j_02_05_04.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Vowels. Acoustic Source at the Glottis. Mechanism of Vocal-fold Vibration. Source Characteristics for Females and Males. Different Vocal-tract Shapes: Articulatory Attributes, Acoustic Consequences. Features High, Low, Back, and their Articulatory and Acoustic Correlates. Other Vowel Features: Rounding, Nasalization, Tense-lax. Laryngeal Variations for Vowels; Breathy and Pressed Voicing; Tones; Stress. Auditory Processing of Vowels. (<a href="1/6541j_02_12_04.pdf">PDF 1</a>) (<a href="1/6541j_02_19_04.pdf">PDF 2</a>) (<a href="1/6541j_02_24_04.pdf">PDF 3</a>)</td>
+</tr>
+<tr class="row">
+<td>Consonants. Aerodynamics of the Vocal Tract, Turbulence Noise, Abrupt Release, Bursts. Place of Articulation for Consonants: Articulatory Attributes, Acoustic Consequences, Formant Transitions, Classification in Terms of Features. Aspiration and Voicing. Models of Stop, Nasal, and Fricative Consonant Production. Perception of Consonants. Liquids, Glides, Clicks, Other Features. Consonants and Consonant Sequences in Various Contexts. (<a href="1/6541j_02_26_04.pdf">PDF 1</a>) (<a href="1/6541j_03_02_04.pdf">PDF&nbsp;2</a>) (<a href="1/6541j_03_04_04.pdf">PDF 3 - 1.1 MB</a>) (<a href="1/6541j_03_09_04_a.pdf">PDF 4</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Introduction to Syntax, Morphology and Phonology. Review of Features and Feature Hierarchies; Feature Geometry and its Relation to Speech Production. Phonological Evidence for Distinctive Features. Lexical Representation. Examples from English and Other Languages. (<a href="1/6541j_03_18_04.pdf">PDF 1</a>) (<a href="1/6541j_03_30_04.pdf">PDF 2</a>) (<a href="1/6541j_04_01_04.pdf">PDF 3</a>)</td>
+</tr>
+<tr class="row">
+<td>Prosody. Models of Speech Planning; Evidence from Speech Errors. Modification of Features and Acoustic Properties in Fluent Speech; Gestural Overlap, Reduction, Enhancement. (<a href="1/6541j_04_06_04.pdf">PDF 1</a>) (<a href="1/6541j_04_08_04.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Approaches to Lexical Access; Models of Human and Machine Recognition of Speech. (<a href="1/6541j_04_22_04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Impaired Speech Production and Perception; Hearing Loss, Aphasia, Neurogenic Disorders, Laryngeal Disorders, Other Impairments; Aids for Speech and Hearing-impaired. Speech and Language Development in Children; Acoustic Analysis of Children's Speech. (<a href="1/6541j_05_04_04.pdf">PDF - 1.0 MB</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="col1" scope="col">ASSIGNMENTS</th>
+<th id="col2" scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="1/ps1_04.pdf">PDF</a>)</td>
+<td>(<a href="1/pset1soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set&nbsp;2 (<a href="1/ps2.pdf">PDF</a>)</td>
+<td>(<a href="1/pset2soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set&nbsp;3 (<a href="1/ps3_04.pdf">PDF</a>)</td>
+<td>(<a href="1/pset3soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set&nbsp;4 (<a href="1/ps4_04.pdf">PDF</a>)</td>
+<td>(<a href="1/pset4soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set&nbsp;5 (<a href="1/ps5_04.pdf">PDF</a>)</td>
+<td>(<a href="1/pset5soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set&nbsp;6 (<a href="1/ps6_04.pdf">PDF</a>)</td>
+<td>(<a href="1/pset6soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set&nbsp;7 (<a href="1/ps7_04.pdf">PDF</a>)</td>
+<td>(<a href="1/pset7soln.pdf">PDF</a>)</td>
 </tr>
 </tbody>
 </table>
