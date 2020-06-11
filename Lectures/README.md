@@ -45,7 +45,7 @@
  
  
    <li><a href="#course44">Grammar of a Less Familiar Language</a></li> 
-   <li><a href="#course41">Language Variation and Change</a></li> 
+   <li><a href="#course45">Linguistic Theory and the Japanese Language</a></li> 
    <li><a href="#course42">Linguistic Phonetics</a></li> 
    <li><a href="#course43">ConLangs: How to Construct a Language</a></li> 
  
@@ -3375,5 +3375,54 @@
 </tbody>
 </table>
 </br>
+<h2 id="course45">Linguistic Theory and the Japanese Language</h2>
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th id="tbl156id0_1" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl156id0_1">Nature of Optional Movement (<a href="1/ho_lec_1_2_se_va.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl156id0_1">Nature of Optional Movement (cont.) (<a href="1/ho_lec_1_2_se_va.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl156id0_1">The EPP, Agreement and Focus I (<a href="1/ho_lec_3_epp.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl156id0_1">The EPP, Agreement and Focus II: With Reference to Bantu (<a href="1/ho_lec_4_bantu.pdf">PDF 1</a>) (<a href="1/ho_lec_4_6_a_a.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl156id0_1">The EPP, Agreement and Focus III: Questioning (Certain) parametric variations: wh-movement vs. wh-in-situ, agreement vs. nonagreement (<a href="1/ho_lec_4_6_a_a.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl156id0_1">EPP, Syntactic Locality, and Floated Quantifiers&nbsp;(<a href="1/ho_lecture_7_nq.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl156id0_1">Scrambling and QR: QR is Scrambling (<a href="1/ho_lct_8qr_scmbg.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl156id0_1">Weak Islands (<a href="1/ho_lct_9a_wk_ild.pdf">PDF</a>)<br />Intervention Effect&nbsp;(<a href="1/ho_l9b_invn_sypg.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl156id0_1">A-chain in Acquisition&nbsp;(<a href="1/ho_lect_10a_chn.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl156id0_1">Agreement, Case, and Verbal Morphology: ga/no Conversion and Related Issues</td>
+</tr>
+<tr class="row">
+<td headers="tbl156id0_1">Noun Phrase Ellipsis</td>
+</tr>
+<tr class="alt-row">
+<td>Noun Phrase Ellipsis (cont.)<br /><br />DP Structure</td>
+</tr>
+<tr class="row">
+<td headers="tbl156id0_1">Make-up Class: -Wa, -Ga</td>
+</tr>
+</tbody>
+</table>
+</br>
