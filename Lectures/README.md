@@ -46,8 +46,10 @@
    <li><a href="#course45">Linguistic Theory and the Japanese Language</a></li> 
    <li><a href="#course46">Language Disorders in Children</a></li> 
    <li><a href="#course47">Pragmatics in Linguistic Theory</a></li> 
- 
- 
+ <li><a href="#course48">Syntactic Models</a></li> 
+   <li><a href="#course45">Linguistic Theory and the Japanese Language</a></li> 
+   <li><a href="#course46">Language Disorders in Children</a></li> 
+   <li><a href="#course47">Pragmatics in Linguistic Theory</a></li> 
  
 </ul>
 <p>&nbsp;</p>
@@ -3492,3 +3494,54 @@
 </tbody>
 </table>
 </br>
+<h2 id="course48">Syntactic Models</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>HPSG 1: How it works (<a href="1/l01_hpsg.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>HPSG 2: Infinitival complementation/a-bar dependencies (<a href="1/l02_hpsg2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>LFG: Basics (<a href="1/l03_lfg.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>LFG 2: The overall system, modern developments</td>
+</tr>
+<tr class="row">
+<td>Student presentation festival: HPSG and LFG papers</td>
+</tr>
+<tr class="alt-row">
+<td>Non-derivational principles and parameters/minimalist grammars (<a href="1/l06_deriv_repres.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>History of analyses of the English auxiliary verb system: Derivations to representations (<a href="1/l07_auxiliaries.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Standard theory to generative semantics (<a href="1/l08_gs.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Conditions (<a href="1/l09_conditions.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Student presentation festival: Generative semantics/interpretive semantics/conditions papers</td>
+</tr>
+<tr class="row">
+<td>The legacy of conditions: LFG, GPSG, and GB (<a href="1/l11_1970s_syntax.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Simpler syntax?</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
