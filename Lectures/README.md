@@ -48,7 +48,7 @@
    <li><a href="#course47">Pragmatics in Linguistic Theory</a></li> 
  <li><a href="#course48">Syntactic Models</a></li> 
    <li><a href="#course49">Introduction to Phonology</a></li> 
-   <li><a href="#course46">Language Disorders in Children</a></li> 
+   <li><a href="#course50">Advanced Phonology</a></li> 
    <li><a href="#course47">Pragmatics in Linguistic Theory</a></li> 
  
 </ul>
@@ -3681,6 +3681,117 @@
 <tr class="row">
 <td>Prosodic Morphology-2c: Japanese Hypocoristics, Truncations, and Argots</td>
 <td><a href="1/MIT24_961F14_Lecture27c.pdf">Lecture 27c Notes (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course50">Advanced Phonology</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="tbl809id0_1" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2" headers="tbl809id0_0"><strong>Correspondence Theory</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl809id0_1">Correspondence Theory Basics (<a href="1/feb2_corrbasics.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl809id0_1">Correspondence Theory (cont.) (<a href="1/feb6_corrappend.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl809id0_1">MAX F Constraints and Positional Faithfulness (<a href="1/feb9_24962maxf.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="tbl809id0_0"><strong>Reduplication</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl809id0_1">Reduplication: Basic Laws (<a href="1/24962redtemplate.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl809id0_1">Reduplicative Correspondence (<a href="1/noname.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl809id0_1">Reduplicant Size and Placement (<a href="1/feb22handout.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl809id0_1">Reduplicant Size and Placement (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl809id0_1">BR vs. IR Correspondence</td>
+</tr>
+<tr class="row">
+<td headers="tbl809id0_1">Emergence of the Unmarked, and Non-reduplicative Correspondence (<a href="1/mar2handout.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="tbl809id0_0"><strong>Lexical Phonology and Cyclicity Effects</strong></td>
+</tr>
+<tr class="row">
+<td headers="tbl809id0_1">Lexical vs. Postlexical Phonology</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl809id0_1">Cyclicity and its OT Translations (<a href="1/noname3_9.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl809id0_1">OO Correspondence (<a href="1/noname3_14.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl809id0_1">Base-derivative Correspondence (<a href="1/noname3_16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="tbl809id0_0"><strong>Paradigm Uniformity</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl809id0_1">Paradigm Uniformity (<a href="1/mar28_handout.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl809id0_1">Paradigm Uniformity (cont.)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl809id0_1">More on Paradigm Regularization (<a href="1/apr4_handout.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="tbl809id0_0"><strong>Opacity</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl809id0_1">Overview: Types of Opacity (<a href="1/noname4_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl809id0_1">Characteristics of Opacity (<a href="1/noname4_11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl809id0_1">Formalization of Opacity in OT (<a href="1/april13_sympathy.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl809id0_1">Sympathy Theory (<a href="1/noname4_20.pdf">PDF</a>)<br /><br />Other Approaches to Opacity (<a href="1/apr20_moreonop.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl809id0_1">Comparative Markedness (<a href="1/apr25_compara.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="tbl809id0_0"><strong>Exceptions</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl809id0_1">Introduction to Exceptions (<a href="1/apr27handout.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl809id0_1">The Representation of Exceptions (<a href="1/may2handout.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl809id0_1">What is regular, and what is an exception? (<a href="1/may4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="tbl809id0_0"><strong>Student Presentations</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl809id0_1">Student Presentations, Part 1</td>
+</tr>
+<tr class="row">
+<td headers="tbl809id0_1">Student Presentations, Part 2</td>
 </tr>
 </tbody>
 </table>
