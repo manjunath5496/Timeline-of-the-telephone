@@ -46,7 +46,7 @@
  
    <li><a href="#course44">Grammar of a Less Familiar Language</a></li> 
    <li><a href="#course45">Linguistic Theory and the Japanese Language</a></li> 
-   <li><a href="#course42">Linguistic Phonetics</a></li> 
+   <li><a href="#course46">Language Disorders in Children</a></li> 
    <li><a href="#course43">ConLangs: How to Construct a Language</a></li> 
  
  
@@ -3425,4 +3425,10 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course46">Language Disorders in Children</h2>
+<p><a href="1/MIT24_947S13_OvrviwLnguge.pdf">Overview: Language Disorders (PDF)</a></p>
+<p><a href="1/MIT24_947S13_ModlsLnguage.pdf">Models and Causation of Child Language Disorders (PDF)</a></p>
+<p><a href="1/MIT24_947S13_IntroAutsmSp.pdf">Introduction to Autism Spectrum Disorders (PDF)</a></p>
+<p><a href="1/MIT24_947S13_AutsmSptmDis.pdf">Autism Spectrum Disorders (PDF)</a></p>
 </br>
