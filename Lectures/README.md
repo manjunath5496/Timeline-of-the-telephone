@@ -42,7 +42,7 @@
    <li><a href="#course41">Language Variation and Change</a></li> 
  
    <li><a href="#course42">Linguistic Phonetics</a></li> 
-   <li><a href="#course41">Language Variation and Change</a></li> 
+   <li><a href="#course43">ConLangs: How to Construct a Language</a></li> 
  
 </ul>
 <p>&nbsp;</p>
@@ -3254,7 +3254,75 @@
 <p><a href="1/MIT24_915F15_lec17.pdf">17: Phonetic Grammar and Lexical Access (PDF)</a></p>
 <p><a href="1/MIT24_915F15_lec18.pdf">18: Phonetics and Sound Change (PDF)</a></p>
 </br>
+<h2 id="course43">ConLangs: How to Construct a Language</h2>
 
-
-
-
+<table class="tablewidth50">
+<thead>
+<tr>
+<th>LECTURE NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="1/MIT24_917f18_lec1_phonet1.pdf">Phonetics 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT24_917f18_lec2_phonet2.pdf">Phonetics 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT24_917f18_lec4_phonol1.pdf">Phonology 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT24_917f18_lec5_phonol_2.pdf">Phonology 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT24_917f18_lec6_klingon_etc.pdf">Klingon, Quenya, Parseltongue, etc. (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT24_917f18_lec7_morphology.pdf">Morphology (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT24_917f18_lec8_case.pdf">Case (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT24_917f18_lec9_transitivity.pdf">Transitivity (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT24_917f18_lec11_agreement.pdf">Agreement (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT24_917f18_lec13_word_order1.pdf">Word Order 1 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT24_917f18_lec15_embed.pdf">Embedded Clauses&nbsp;(PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT24_917f18_lec17_questions.pdf">Questions&nbsp;(PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT24_917f18_lec18_word_order2.pdf">Word Order 2 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT24_917f18_lec19_finish_syntax.pdf">Finishing Up Syntax (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT24_917f18_lec20_disc_part.pdf">Discourse Particles (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT24_917f18_lec21_kin_terms.pdf">Kinship Terminology&nbsp;<span class="nobr">(PDF - 3.4MB)</span></a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT24_917f18_lec22_colors_etc.pdf">Numbers and Colors (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT24_917f18_lec24_writ_syst.pdf">Writing Systems&nbsp;<span class="nobr">(PDF - 1.5MB)</span></a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MIT24_917f18_lec25_hist_ling.pdf">Historical Linguistics (PDF - 1.1MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MIT24_917f18_lec26_hesitation.pdf">Hesitation Noises, Language Games, Honorifics, etc. (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
