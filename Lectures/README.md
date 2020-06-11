@@ -42,12 +42,10 @@
    <li><a href="#course41">Language Variation and Change</a></li> 
    <li><a href="#course42">Linguistic Phonetics</a></li> 
    <li><a href="#course43">ConLangs: How to Construct a Language</a></li> 
- 
- 
    <li><a href="#course44">Grammar of a Less Familiar Language</a></li> 
    <li><a href="#course45">Linguistic Theory and the Japanese Language</a></li> 
    <li><a href="#course46">Language Disorders in Children</a></li> 
-   <li><a href="#course43">ConLangs: How to Construct a Language</a></li> 
+   <li><a href="#course47">Pragmatics in Linguistic Theory</a></li> 
  
  
  
@@ -3431,4 +3429,66 @@
 <p><a href="1/MIT24_947S13_ModlsLnguage.pdf">Models and Causation of Child Language Disorders (PDF)</a></p>
 <p><a href="1/MIT24_947S13_IntroAutsmSp.pdf">Introduction to Autism Spectrum Disorders (PDF)</a></p>
 <p><a href="1/MIT24_947S13_AutsmSptmDis.pdf">Autism Spectrum Disorders (PDF)</a></p>
+</br>
+<h2 id="course47">Pragmatics in Linguistic Theory</h2>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Implicatures</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Pragmatics and implicatures</td>
+<td>(<a href="1/MIT24_954S10_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Free choice disjunction and implicatures</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Hurford disjunctions</td>
+<td>(<a href="1/MIT24_954S10_lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Modularity and embedded implicatures</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Chierchia's Puzzle and Sauerland's account</td>
+<td>(<a href="1/MIT24_954S10_lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>
+<p>Economy and embedded exhaustification</p>
+<p>With Benjamin Spector. (Used with permission.)</p>
+</td>
+<td>(<a href="1/MIT24_954S10_lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Implicatures: On the nature of alternatives</strong></td>
+</tr>
+<tr class="row">
+<td>Back to the theory of implicatures</td>
+<td>(<a href="1/MIT24_954S10_lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Presuppositions</strong></td>
+</tr>
+<tr class="row">
+<td>Presuppositions; introductory comments</td>
+<td>(<a href="1/MIT24_954S10_lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Schlenker 2008, basics</td>
+<td>(<a href="1/MIT24_954S10_lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Relevance and presupposition projection</td>
+<td>(<a href="1/MIT24_954S10_lec08.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
 </br>
